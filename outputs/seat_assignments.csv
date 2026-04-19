@@ -1,0 +1,1931 @@
+room_id,room_name,office,day,seat,employee,is_occupied,is_hot_desk
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 1,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 2,Ayimbila Nsolemna,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 3,Kingsley Botchway,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 4,Kingsley Amankwah,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 5,Gideon Dakore,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 6,Jimmy Kodwo Essel,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 7,Asumah Yakubu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 8,Dennis Owusu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 9,Nlenjibi Timothy,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 10,Samuel Junior Arthur,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 11,Baffour Kofi Gyawu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 12,Rhoda Arthur,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 13,Zakaria Osman,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 14,Adams Miracle,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 15,Abulfail Ahmed Rufai,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Monday,Seat 16,Gideon Boateng,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 1,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 2,Ayimbila Nsolemna,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 3,Kingsley Botchway,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 4,Kingsley Amankwah,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 5,Gideon Dakore,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 6,Jimmy Kodwo Essel,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 7,Asumah Yakubu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 8,Dennis Owusu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 9,Nlenjibi Timothy,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 10,Samuel Junior Arthur,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 11,Baffour Kofi Gyawu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 12,Rhoda Arthur,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 13,Zakaria Osman,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 14,Adams Miracle,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 15,Abulfail Ahmed Rufai,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Tuesday,Seat 16,Gideon Boateng,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 1,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 2,Ayimbila Nsolemna,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 3,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 4,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 5,Gideon Dakore,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 6,Jimmy Kodwo Essel,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 7,Asumah Yakubu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 8,Samuel Amo,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 9,Nlenjibi Timothy,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 10,Samuel Junior Arthur,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 11,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 12,Rhoda Arthur,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 13,Zakaria Osman,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 14,Adams Miracle,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 15,Jenef-Great Alemonai,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Wednesday,Seat 16,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 1,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 2,Ayimbila Nsolemna,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 3,Kingsley Botchway,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 4,Kingsley Amankwah,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 5,Gideon Dakore,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 6,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 7,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 8,Samuel Amo,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 9,Nlenjibi Timothy,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 10,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 11,Baffour Kofi Gyawu,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 12,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 13,Zakaria Osman,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 14,Adams Miracle,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 15,Jenef-Great Alemonai,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Thursday,Seat 16,Gideon Boateng,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 1,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 2,Ayimbila Nsolemna,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 3,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 4,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 5,Gideon Dakore,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 6,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 7,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 8,Samuel Amo,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 9,Nlenjibi Timothy,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 10,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 11,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 12,,False,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 13,Zakaria Osman,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 14,Adams Miracle,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 15,Jenef-Great Alemonai,True,
+f7ebd15b-478e-4176-bb36-cce1811ff4b2,SEKONDI,Kumasi Office,Friday,Seat 16,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 1,Jeremiah Anku Coblah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 2,Paul Kofi Osei,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 3,Julius Abaabagre,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 4,Jeffery Twumasi Owusu,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 5,Nana Kweku Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 6,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 7,Edward Obeng Dankwah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 8,Daniel Antwi Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 9,Emmanuel Preprah Mensah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 10,Elisha Samuel Gyamfi,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 11,Dosimey Olivia,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 12,Eric Obeng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 13,Daniel Kusi Boateng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 14,Solomon Sarfo,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 15,Abdul Suraj,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Monday,Seat 16,Sefakor Edwina Dodor,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 1,Jeremiah Anku Coblah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 2,Paul Kofi Osei,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 3,Julius Abaabagre,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 4,Jeffery Twumasi Owusu,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 5,Nana Kweku Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 6,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 7,Edward Obeng Dankwah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 8,Daniel Antwi Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 9,Emmanuel Preprah Mensah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 10,Elisha Samuel Gyamfi,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 11,Dosimey Olivia,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 12,Eric Obeng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 13,Daniel Kusi Boateng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 14,Solomon Sarfo,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 15,Abdul Suraj,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Tuesday,Seat 16,Sefakor Edwina Dodor,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 1,Jeremiah Anku Coblah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 2,Paul Kofi Osei,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 3,Julius Abaabagre,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 4,Jeffery Twumasi Owusu,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 5,Nana Kweku Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 6,Rose Otukuo Tetteh,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 7,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 8,Daniel Antwi Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 9,Emmanuel Preprah Mensah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 10,Elisha Samuel Gyamfi,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 11,Dosimey Olivia,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 12,Samuel Danquah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 13,Daniel Kusi Boateng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 14,Tuffour Boateng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 15,Abdul Suraj,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Wednesday,Seat 16,Ebenezer Nyarko,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 1,Jeremiah Anku Coblah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 2,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 3,Julius Abaabagre,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 4,Jeffery Twumasi Owusu,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 5,Nana Kweku Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 6,Rose Otukuo Tetteh,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 7,Edward Obeng Dankwah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 8,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 9,Emmanuel Preprah Mensah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 10,Eric Obeng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 11,Dosimey Olivia,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 12,Samuel Danquah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 13,Solomon Sarfo,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 14,Tuffour Boateng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 15,Sefakor Edwina Dodor,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Thursday,Seat 16,Ebenezer Nyarko,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 1,Jeremiah Anku Coblah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 2,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 3,Julius Abaabagre,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 4,Jeffery Twumasi Owusu,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 5,Nana Kweku Sarpong,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 6,Rose Otukuo Tetteh,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 7,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 8,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 9,Emmanuel Preprah Mensah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 10,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 11,Dosimey Olivia,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 12,Samuel Danquah,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 13,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 14,Tuffour Boateng,True,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 15,,False,
+91b60d0f-51bb-4713-97fd-7a0da74d944c,ADIEMBRA,Kumasi Office,Friday,Seat 16,Ebenezer Nyarko,True,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 1,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 2,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 3,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 4,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 5,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 6,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 7,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 8,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 9,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 10,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 11,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Monday,Seat 12,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 1,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 2,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 3,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 4,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 5,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 6,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 7,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 8,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 9,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 10,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 11,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Tuesday,Seat 12,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 1,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 2,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 3,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 4,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 5,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 6,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 7,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 8,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 9,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 10,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 11,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Wednesday,Seat 12,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 1,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 2,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 3,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 4,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 5,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 6,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 7,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 8,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 9,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 10,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 11,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Thursday,Seat 12,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 1,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 2,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 3,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 4,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 5,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 6,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 7,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 8,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 9,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 10,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 11,,False,
+b945d4ea-447c-4241-be66-6ed7e8d8ff67,Kweikuma,Kumasi Office,Friday,Seat 12,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 1,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 2,Nnyabe Solomon Chamamme,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 3,Kumi Silas,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 4,Joel Livingstone Kofi Ackah,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 5,Osei Kofi Frimpong,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 6,Sudais Abdul Hamid,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 7,Zanita Essel Quaicoe,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 8,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 9,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 10,Japheth Selorm,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 11,Gloria Tani Tampuri,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Monday,Seat 12,Alalinga Mubarik,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 1,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 2,Nnyabe Solomon Chamamme,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 3,Kumi Silas,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 4,Joel Livingstone Kofi Ackah,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 5,Osei Kofi Frimpong,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 6,Sudais Abdul Hamid,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 7,Zanita Essel Quaicoe,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 8,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 9,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 10,Japheth Selorm,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 11,Gloria Tani Tampuri,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Tuesday,Seat 12,Alalinga Mubarik,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 1,Evans Elabo,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 2,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 3,Kumi Silas,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 4,Joel Livingstone Kofi Ackah,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 5,Osei Kofi Frimpong,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 6,Sudais Abdul Hamid,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 7,Zanita Essel Quaicoe,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 8,Benedicta Nana Fosua Asare,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 9,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 10,Japheth Selorm,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 11,Salifu Zeba,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Wednesday,Seat 12,Alalinga Mubarik,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 1,Evans Elabo,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 2,Nnyabe Solomon Chamamme,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 3,Kumi Silas,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 4,Joel Livingstone Kofi Ackah,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 5,Osei Kofi Frimpong,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 6,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 7,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 8,Benedicta Nana Fosua Asare,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 9,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 10,Japheth Selorm,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 11,Salifu Zeba,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Thursday,Seat 12,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 1,Evans Elabo,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 2,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 3,Kumi Silas,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 4,Joel Livingstone Kofi Ackah,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 5,Osei Kofi Frimpong,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 6,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 7,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 8,Benedicta Nana Fosua Asare,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 9,,False,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 10,Japheth Selorm,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 11,Salifu Zeba,True,
+8d323046-d972-4be6-ae4f-9a650867bd58,APOWA,Kumasi Office,Friday,Seat 12,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 1,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 2,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 3,Henry Nana Antwi,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 4,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 5,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 6,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 7,Daniel Ajayi Lotsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 8,Godsaves Kojo Essuman,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 9,Vanessa Addo,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 10,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 11,Listowel Adolwin Moro,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 12,Samuel Gyabeng Asante,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 13,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 14,Emmanuel Joe Letsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Monday,Seat 15,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 1,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 2,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 3,Henry Nana Antwi,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 4,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 5,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 6,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 7,Daniel Ajayi Lotsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 8,Godsaves Kojo Essuman,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 9,Vanessa Addo,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 10,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 11,Listowel Adolwin Moro,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 12,Samuel Gyabeng Asante,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 13,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 14,Emmanuel Joe Letsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Tuesday,Seat 15,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 1,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 2,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 3,Henry Nana Antwi,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 4,Charles Adu Nkansah,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 5,Andrew Marfo,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 6,Clara Borlu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 7,Daniel Ajayi Lotsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 8,Godsaves Kojo Essuman,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 9,Vanessa Addo,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 10,Ignatus Anim,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 11,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 12,Samuel Gyabeng Asante,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 13,Brempong Appiah Dankwah,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 14,Emmanuel Joe Letsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Wednesday,Seat 15,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 1,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 2,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 3,Henry Nana Antwi,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 4,Charles Adu Nkansah,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 5,Andrew Marfo,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 6,Clara Borlu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 7,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 8,Godsaves Kojo Essuman,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 9,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 10,Ignatus Anim,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 11,Listowel Adolwin Moro,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 12,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 13,Brempong Appiah Dankwah,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 14,Emmanuel Joe Letsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Thursday,Seat 15,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 1,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 2,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 3,Henry Nana Antwi,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 4,Charles Adu Nkansah,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 5,Andrew Marfo,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 6,Clara Borlu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 7,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 8,Godsaves Kojo Essuman,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 9,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 10,Ignatus Anim,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 11,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 12,,False,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 13,Brempong Appiah Dankwah,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 14,Emmanuel Joe Letsu,True,
+6874bff6-cb94-4c5b-8817-eb64985829f3,EFFIAKUMA,Kumasi Office,Friday,Seat 15,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 1,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 2,Eliezer Kwasi Gyan,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 3,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 4,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 5,Cletus Nehinlalei Mangu,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 6,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 7,Bernard Ograh,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 8,Abraham Jimah Zorwi,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 9,Abdul Basit Mohammed,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 10,Zaidan Ali Usman,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 11,Noah Jamal,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 12,Tob Adoba,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 13,Isaac Obo Enemil,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Monday,Seat 14,Evans Ankomah,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 1,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 2,Eliezer Kwasi Gyan,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 3,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 4,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 5,Cletus Nehinlalei Mangu,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 6,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 7,Bernard Ograh,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 8,Abraham Jimah Zorwi,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 9,Abdul Basit Mohammed,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 10,Zaidan Ali Usman,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 11,Noah Jamal,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 12,Tob Adoba,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 13,Isaac Obo Enemil,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Tuesday,Seat 14,Evans Ankomah,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 1,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 2,Eliezer Kwasi Gyan,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 3,Jonathan kusi Ankrah Nsiah,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 4,Kwabena Asabere,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 5,Cletus Nehinlalei Mangu,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 6,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 7,Bernard Ograh,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 8,Abraham Jimah Zorwi,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 9,Abdul Basit Mohammed,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 10,Zaidan Ali Usman,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 11,Noah Jamal,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 12,Tob Adoba,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 13,Isaac Obo Enemil,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Wednesday,Seat 14,Evans Ankomah,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 1,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 2,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 3,Jonathan kusi Ankrah Nsiah,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 4,Kwabena Asabere,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 5,Cletus Nehinlalei Mangu,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 6,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 7,Bernard Ograh,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 8,Abraham Jimah Zorwi,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 9,Abdul Basit Mohammed,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 10,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 11,Noah Jamal,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 12,Tob Adoba,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 13,Isaac Obo Enemil,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Thursday,Seat 14,Evans Ankomah,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 1,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 2,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 3,Jonathan kusi Ankrah Nsiah,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 4,Kwabena Asabere,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 5,Cletus Nehinlalei Mangu,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 6,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 7,Bernard Ograh,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 8,Abraham Jimah Zorwi,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 9,Abdul Basit Mohammed,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 10,,False,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 11,Noah Jamal,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 12,Tob Adoba,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 13,Isaac Obo Enemil,True,
+f9f9ad94-3e9f-447d-970b-18fbaaa89ef9,APREMDO,Kumasi Office,Friday,Seat 14,Evans Ankomah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 1,Robert Elinam Hlovor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 2,Maxwell Kwesi Ehiawey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 3,Asiedu Saah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 4,Emmanuel Eshun,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 5,Isaac Kwadzo Agbobli,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 6,Abraham Opoku Gyamfi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 7,Abraham Ayamigah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 8,Benjamin Nyankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 9,Haruna Ibrahim Konlan,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 10,Linda Pomaa Boateng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 11,Andy Kwasi Debrah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 12,Godsway Kojo Nyatuame,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 13,Ebenezer Buabeng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 14,Abdul-Razak Hussein,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 15,Richard Bouaro,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 16,Clement Owireku-bogyah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 17,Robertson Asare Otoo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 18,Theophilus Kofi Gordon,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 19,Emmanuel Darkwah Ampofo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 20,Enoch Boison,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 21,Linda Kumah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 22,Bilal Maltiti Abubakari,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 23,Justice Abban,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 24,Samuel Nana Baffour Asare,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 1,Robert Elinam Hlovor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 2,Maxwell Kwesi Ehiawey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 3,Asiedu Saah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 4,Emmanuel Eshun,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 5,Isaac Kwadzo Agbobli,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 6,Abraham Opoku Gyamfi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 7,Abraham Ayamigah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 8,Benjamin Nyankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 9,Haruna Ibrahim Konlan,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 10,Linda Pomaa Boateng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 11,Andy Kwasi Debrah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 12,Godsway Kojo Nyatuame,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 13,Ebenezer Buabeng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 14,Abdul-Razak Hussein,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 15,Richard Bouaro,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 16,Clement Owireku-bogyah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 17,Robertson Asare Otoo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 18,Theophilus Kofi Gordon,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 19,Emmanuel Darkwah Ampofo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 20,Enoch Boison,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 21,Linda Kumah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 22,Bilal Maltiti Abubakari,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 23,Justice Abban,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 24,Samuel Nana Baffour Asare,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 1,Robert Elinam Hlovor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 2,Emmanuel Ayirebi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 3,Asiedu Saah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 4,Emmanuel Eshun,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 5,Isaac Kwadzo Agbobli,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 6,Abraham Opoku Gyamfi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 7,Abraham Ayamigah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 8,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 9,Bismark Kadogbe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 10,Linda Pomaa Boateng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 11,Andy Kwasi Debrah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 12,Godsway Kojo Nyatuame,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 13,Samuel Enoh,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 14,Abdul-Razak Hussein,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 15,Benjamin Nyankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 16,Clement Owireku-bogyah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 17,Richard Bouaro,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 18,Justice Abban,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 19,Emmanuel Darkwah Ampofo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 20,Ebenezer Buabeng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 21,Jude Kwofie,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 22,Joseph Kobina Sam,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 23,Stanley Yaw Appiah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 24,Jacqueline Abban Botchway,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 1,Abigail Nyameyie Arko,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 2,Emmanuel Ayirebi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 3,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 4,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 5,Maxwell Kwesi Ehiawey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 6,Abraham Opoku Gyamfi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 7,Abraham Ayamigah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 8,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 9,Haruna Ibrahim Konlan,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 10,Bismark Kadogbe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 11,Andy Kwasi Debrah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 12,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 13,Samuel Enoh,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 14,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 15,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 16,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 17,Robertson Asare Otoo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 18,Theophilus Kofi Gordon,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 19,Bilal Maltiti Abubakari,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 20,Jude Kwofie,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 21,Linda Kumah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 22,Joseph Kobina Sam,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 23,Stanley Yaw Appiah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 24,Jacqueline Abban Botchway,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 1,Abigail Nyameyie Arko,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 2,Emmanuel Ayirebi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 3,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 4,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 5,Maxwell Kwesi Ehiawey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 6,Abraham Opoku Gyamfi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 7,Abraham Ayamigah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 8,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 9,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 10,Bismark Kadogbe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 11,Andy Kwasi Debrah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 12,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 13,Samuel Enoh,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 14,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 15,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 16,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 17,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 18,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 19,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 20,Jude Kwofie,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 21,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 22,Joseph Kobina Sam,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 23,Stanley Yaw Appiah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 24,Jacqueline Abban Botchway,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 25,Adolf Menano,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 26,Alice Fremah Boakye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 27,Manasseh Aikins Sarfo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 28,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 29,Francine-Maria Aweziga Kaba,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 30,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 31,Paa Kwesi Ephraim,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 32,Benjamin Kofi Yankey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 33,Bernice Adime Mawuena,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 34,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 35,Broderick Nana Bentil,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 36,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 37,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 38,Carl Nyameakyere Crankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 39,Emmanuel Kabu,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 40,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 41,Veronica Abena Numekevor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 42,Titus Fiifi Appiah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 43,Prince Tetteh Ayiku,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 44,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 45,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 46,Ernest Baffoe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 47,Essilfie Prince Mbeah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 48,Emmanuel Twum Osafo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 25,Adolf Menano,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 26,Alice Fremah Boakye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 27,Manasseh Aikins Sarfo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 28,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 29,Francine-Maria Aweziga Kaba,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 30,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 31,Paa Kwesi Ephraim,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 32,Benjamin Kofi Yankey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 33,Bernice Adime Mawuena,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 34,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 35,Broderick Nana Bentil,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 36,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 37,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 38,Carl Nyameakyere Crankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 39,Emmanuel Kabu,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 40,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 41,Veronica Abena Numekevor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 42,Titus Fiifi Appiah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 43,Prince Tetteh Ayiku,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 44,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 45,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 46,Ernest Baffoe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 47,Essilfie Prince Mbeah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 48,Emmanuel Twum Osafo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 25,Adolf Menano,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 26,Alice Fremah Boakye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 27,Manasseh Aikins Sarfo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 28,Philip Odzor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 29,Francine-Maria Aweziga Kaba,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 30,Ebenezer Ansere,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 31,Paa Kwesi Ephraim,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 32,Benjamin Kofi Yankey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 33,Bernice Adime Mawuena,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 34,Richard Dadzie,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 35,Broderick Nana Bentil,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 36,Timothy Hobbs Kumah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 37,Clifford Agyabeng Kwakye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 38,Carl Nyameakyere Crankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 39,Emmanuel Kabu,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 40,Methuselah Nwodobeh,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 41,Veronica Abena Numekevor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 42,Titus Fiifi Appiah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 43,Prince Tetteh Ayiku,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 44,Doris Addai Gyebi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 45,Enoch Boison,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 46,Ernest Baffoe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 47,Essilfie Prince Mbeah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 48,Samuel Nana Baffour Asare,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 25,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 26,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 27,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 28,Philip Odzor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 29,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 30,Ebenezer Ansere,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 31,Ayawavi Diane Adeline Missewou,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 32,Benjamin Kofi Yankey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 33,Bernice Adime Mawuena,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 34,Richard Dadzie,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 35,Broderick Nana Bentil,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 36,Timothy Hobbs Kumah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 37,Clifford Agyabeng Kwakye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 38,Carl Nyameakyere Crankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 39,Emmanuel Kabu,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 40,Methuselah Nwodobeh,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 41,Veronica Abena Numekevor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 42,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 43,Prince Tetteh Ayiku,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 44,Doris Addai Gyebi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 45,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 46,Ernest Baffoe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 47,Essilfie Prince Mbeah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 48,Emmanuel Twum Osafo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 25,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 26,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 27,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 28,Philip Odzor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 29,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 30,Ebenezer Ansere,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 31,Ayawavi Diane Adeline Missewou,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 32,Benjamin Kofi Yankey,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 33,Bernice Adime Mawuena,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 34,Richard Dadzie,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 35,Broderick Nana Bentil,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 36,Timothy Hobbs Kumah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 37,Clifford Agyabeng Kwakye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 38,Carl Nyameakyere Crankson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 39,Emmanuel Kabu,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 40,Methuselah Nwodobeh,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 41,Veronica Abena Numekevor,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 42,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 43,Prince Tetteh Ayiku,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 44,Doris Addai Gyebi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 45,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 46,Ernest Baffoe,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 47,Essilfie Prince Mbeah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 48,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 49,Christabel Amorkor Quaye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 50,Ernest Owusu Darko,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 51,Nawas Hutchful,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 52,Sam Ackah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 53,Kenneth Atta Oppong,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 54,Ebenezer Ahurein,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 55,Ama Andowa Buabeng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 56,Asher Yram Tetteh-Abotsi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 57,Franz-James Wefagi Kaba,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 58,Christopher Owusu Ahenkorah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 59,Martha Boahene,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Monday,Seat 60,Daniel Forson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 49,Christabel Amorkor Quaye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 50,Ernest Owusu Darko,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 51,Nawas Hutchful,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 52,Sam Ackah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 53,Kenneth Atta Oppong,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 54,Ebenezer Ahurein,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 55,Ama Andowa Buabeng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 56,Asher Yram Tetteh-Abotsi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 57,Franz-James Wefagi Kaba,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 58,Christopher Owusu Ahenkorah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 59,Martha Boahene,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Tuesday,Seat 60,Daniel Forson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 49,Christabel Amorkor Quaye,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 50,Ebenezer Ahurein,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 51,Nawas Hutchful,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 52,Kenneth Atta Oppong,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 53,Emmanuel Adufo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 54,Kweku Gyimah-turkson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 55,Abigail Nyameyie Arko,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 56,Asher Yram Tetteh-Abotsi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 57,Franz-James Wefagi Kaba,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 58,Ayawavi Diane Adeline Missewou,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 59,Martha Boahene,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Wednesday,Seat 60,Prince Twumasi Asamoah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 49,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 50,Ernest Owusu Darko,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 51,Daniel Forson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 52,Sam Ackah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 53,Emmanuel Adufo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 54,Kweku Gyimah-turkson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 55,Ama Andowa Buabeng,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 56,Asher Yram Tetteh-Abotsi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 57,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 58,Christopher Owusu Ahenkorah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 59,Martha Boahene,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Thursday,Seat 60,Prince Twumasi Asamoah,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 49,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 50,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 51,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 52,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 53,Emmanuel Adufo,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 54,Kweku Gyimah-turkson,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 55,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 56,Asher Yram Tetteh-Abotsi,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 57,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 58,,False,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 59,Martha Boahene,True,
+a86c04ef-52b0-45bd-adff-bbea4fddbd11,MAIN HALL,Takoradi Office,Friday,Seat 60,Prince Twumasi Asamoah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 1,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 2,Baffour Kofi Gyawu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 3,Jacob Sabbath Adiaba,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 4,Eric Nana Kpabi,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 5,Jude Edem Nyahe,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 6,Christopher Kweku Asamoah Angoe,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 7,Michael Acheampong,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 8,Patrick Markin-Yankah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 9,Benjamin Eshun,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 10,Isaac Ampomah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 11,Samuel Mawuli Azumah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 12,Shamsu Deen Ahmed,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 1,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 2,Baffour Kofi Gyawu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 3,Jacob Sabbath Adiaba,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 4,Eric Nana Kpabi,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 5,Jude Edem Nyahe,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 6,Christopher Kweku Asamoah Angoe,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 7,Michael Acheampong,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 8,Patrick Markin-Yankah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 9,Benjamin Eshun,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 10,Isaac Ampomah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 11,Samuel Mawuli Azumah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 12,Shamsu Deen Ahmed,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 1,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 2,John Tekpor Dzikunu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 3,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 4,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 5,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 6,Bentil Okyere Boadu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 7,Christopher Kweku Asamoah Angoe,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 8,Patrick Markin-Yankah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 9,Bliss Armah-nwanwah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 10,Isaac Ampomah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 11,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 12,Shamsu Deen Ahmed,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 1,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 2,Baffour Kofi Gyawu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 3,Jacob Sabbath Adiaba,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 4,Eric Nana Kpabi,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 5,Jude Edem Nyahe,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 6,Bentil Okyere Boadu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 7,Michael Acheampong,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 8,Patrick Markin-Yankah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 9,Benjamin Eshun,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 10,Isaac Ampomah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 11,Samuel Mawuli Azumah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 12,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 1,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 2,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 3,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 4,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 5,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 6,Bentil Okyere Boadu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 7,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 8,Patrick Markin-Yankah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 9,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 10,Isaac Ampomah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 11,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 12,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 13,Moses Basing,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 14,Justice Nana Ellis,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 15,Andy Yedonu Annobil,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 16,Maxwell Elorm Ahiable,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 17,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 18,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 19,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 20,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 21,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 22,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 23,Bismark Kwadwo Gyau,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 24,Yussif Tahiru,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 25,Hussein Amadu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 26,Sarah Kyereboah Owusu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 27,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 28,Justice Uzoma Ajah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 13,Moses Basing,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 14,Justice Nana Ellis,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 15,Andy Yedonu Annobil,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 16,Maxwell Elorm Ahiable,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 17,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 18,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 19,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 20,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 21,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 22,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 23,Bismark Kwadwo Gyau,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 24,Yussif Tahiru,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 25,Hussein Amadu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 26,Sarah Kyereboah Owusu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 27,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 28,Justice Uzoma Ajah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 13,Moses Basing,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 14,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 15,Andy Yedonu Annobil,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 16,Maxwell Elorm Ahiable,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 17,Ebenezer Quayson,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 18,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 19,Bernard Essilfie,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 20,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 21,Edem Sablah Stephens,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 22,Heskey Amoako Fordjour,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 23,Bismark Kwadwo Gyau,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 24,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 25,Bismark Kwadwo Gyau,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 26,Sarah Kyereboah Owusu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 27,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 28,Justice Uzoma Ajah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 13,John Tekpor Dzikunu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 14,Justice Nana Ellis,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 15,Andy Yedonu Annobil,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 16,Maxwell Elorm Ahiable,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 17,Ebenezer Quayson,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 18,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 19,Bernard Essilfie,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 20,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 21,Edem Sablah Stephens,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 22,Heskey Amoako Fordjour,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 23,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 24,Yussif Tahiru,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 25,Bismark Kwadwo Gyau,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 26,Hussein Amadu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 27,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 28,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 13,John Tekpor Dzikunu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 14,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 15,Andy Yedonu Annobil,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 16,Maxwell Elorm Ahiable,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 17,Ebenezer Quayson,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 18,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 19,Bernard Essilfie,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 20,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 21,Edem Sablah Stephens,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 22,Heskey Amoako Fordjour,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 23,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 24,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 25,Bismark Kwadwo Gyau,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 26,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 27,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 28,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 29,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 30,Clifford Agyabeng Kwakye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 31,Raphael Kyere Adonteng,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 32,Faisal Issaka,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 33,Bliss Armah-nwanwah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 34,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 35,Pius Prince Oduro,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 36,Solomon Asiedu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 37,Bernard Teye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 38,Augustine Smith,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 39,Benjamin Arthur,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Monday,Seat 40,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 29,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 30,Clifford Agyabeng Kwakye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 31,Raphael Kyere Adonteng,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 32,Faisal Issaka,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 33,Bliss Armah-nwanwah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 34,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 35,Pius Prince Oduro,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 36,Solomon Asiedu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 37,Bernard Teye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 38,Augustine Smith,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 39,Benjamin Arthur,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Tuesday,Seat 40,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 29,Ernest Brayce,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 30,Clifford Agyabeng Kwakye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 31,Raphael Kyere Adonteng,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 32,Joel Kobby Bamfo,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 33,Vincent Andoh Sarsah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 34,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 35,Charles Damascus Togah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 36,Solomon Asiedu,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 37,Bernard Teye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 38,Augustine Smith,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 39,Benjamin Arthur,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Wednesday,Seat 40,Abaidoo Prince,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 29,Ernest Brayce,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 30,Clifford Agyabeng Kwakye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 31,Joel Kobby Bamfo,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 32,Faisal Issaka,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 33,Vincent Andoh Sarsah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 34,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 35,Charles Damascus Togah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 36,Pius Prince Oduro,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 37,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 38,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 39,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Thursday,Seat 40,Abaidoo Prince,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 29,Ernest Brayce,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 30,Clifford Agyabeng Kwakye,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 31,Joel Kobby Bamfo,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 32,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 33,Vincent Andoh Sarsah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 34,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 35,Charles Damascus Togah,True,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 36,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 37,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 38,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 39,,False,
+adf27138-0cda-4399-a7a5-6c195eb64d89,KNIT,Takoradi Office,Friday,Seat 40,Abaidoo Prince,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 1,Francis Roland Bissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 2,Illiasu Abubakar,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 3,Joel Kojo Fofoh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 4,Lawson Buabassah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 5,Lydia Amissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 6,Melchizedek Tetteh Narh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 7,Jerome Awonniseba Akumasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 8,Samuel Ohene Larbi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 1,Francis Roland Bissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 2,Illiasu Abubakar,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 3,Joel Kojo Fofoh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 4,Lawson Buabassah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 5,Lydia Amissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 6,Melchizedek Tetteh Narh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 7,Jerome Awonniseba Akumasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 8,Samuel Ohene Larbi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 1,Francis Roland Bissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 2,Illiasu Abubakar,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 3,Joel Kojo Fofoh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 4,Lawson Buabassah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 5,Lydia Amissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 6,Melchizedek Tetteh Narh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 7,Jerome Awonniseba Akumasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 8,Samuel Ohene Larbi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 1,Francis Roland Bissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 2,Illiasu Abubakar,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 3,Joel Kojo Fofoh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 4,Lawson Buabassah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 5,Lydia Amissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 6,Melchizedek Tetteh Narh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 7,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 8,Bernard Essilfie,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 1,Francis Roland Bissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 2,Illiasu Abubakar,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 3,Joel Kojo Fofoh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 4,Lawson Buabassah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 5,Lydia Amissah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 6,Melchizedek Tetteh Narh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 7,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 8,Bernard Essilfie,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 9,Robert Sam,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 10,Ama Gyaa Brobbey,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 11,Mubarak Tijani,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 12,Emmanuel Kwabena Ansu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 13,Samuel Atsyatsya,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 14,Theophilus Quaicoe,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 15,Elliot Adinortey Agbettor,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 16,Michael Kwadwo Nyarko Affanyi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 9,Robert Sam,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 10,Ama Gyaa Brobbey,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 11,Mubarak Tijani,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 12,Emmanuel Kwabena Ansu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 13,Samuel Atsyatsya,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 14,Theophilus Quaicoe,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 15,Elliot Adinortey Agbettor,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 16,Michael Kwadwo Nyarko Affanyi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 9,Abdul-Rashid Issah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 10,Ama Gyaa Brobbey,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 11,Mubarak Tijani,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 12,Emmanuel Kwabena Ansu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 13,Samuel Atsyatsya,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 14,Theophilus Quaicoe,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 15,Michael Idun Hagan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 16,Bernard Essilfie,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 9,Robert Sam,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 10,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 11,Mubarak Tijani,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 12,Emmanuel Kwabena Ansu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 13,Samuel Atsyatsya,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 14,Theophilus Quaicoe,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 15,Elliot Adinortey Agbettor,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 16,Michael Kwadwo Nyarko Affanyi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 9,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 10,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 11,Mubarak Tijani,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 12,Emmanuel Kwabena Ansu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 13,Samuel Atsyatsya,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 14,Theophilus Quaicoe,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 15,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 16,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 17,Israel Kwawu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 18,Michael Nana Kwame Akuetteh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 19,Prince Dean Agbodjan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 20,Anthony Bekoe Bankah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 21,Joel Paa-Kow Amuasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 22,Agyenim Boateng Obeng,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 23,Charles Fuakye-Akyempim,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Monday,Seat 24,Abdul Manaf Sulley,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 17,Israel Kwawu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 18,Michael Nana Kwame Akuetteh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 19,Prince Dean Agbodjan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 20,Anthony Bekoe Bankah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 21,Joel Paa-Kow Amuasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 22,Agyenim Boateng Obeng,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 23,Charles Fuakye-Akyempim,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Tuesday,Seat 24,Abdul Manaf Sulley,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 17,Israel Kwawu,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 18,Michael Nana Kwame Akuetteh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 19,Prince Dean Agbodjan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 20,Anthony Bekoe Bankah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 21,Joel Paa-Kow Amuasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 22,Agyenim Boateng Obeng,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 23,Felix Osei Danso,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Wednesday,Seat 24,Abdul Manaf Sulley,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 17,Abdul-Rashid Issah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 18,Michael Nana Kwame Akuetteh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 19,Prince Dean Agbodjan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 20,Anthony Bekoe Bankah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 21,Joel Paa-Kow Amuasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 22,Michael Idun Hagan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 23,Charles Fuakye-Akyempim,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Thursday,Seat 24,Felix Osei Danso,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 17,Abdul-Rashid Issah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 18,Michael Nana Kwame Akuetteh,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 19,Prince Dean Agbodjan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 20,Anthony Bekoe Bankah,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 21,Joel Paa-Kow Amuasi,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 22,Michael Idun Hagan,True,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 23,,False,
+0b6ffab6-8ac6-43a1-a750-f831434f8402,MAINZ,Takoradi Office,Friday,Seat 24,Felix Osei Danso,True,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 1,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 2,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 3,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 4,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 5,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 6,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 7,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 8,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 9,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 10,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 11,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 12,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 13,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 14,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 15,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 16,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 1,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 2,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 3,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 4,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 5,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 6,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 7,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 8,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 9,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 10,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 11,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 12,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 13,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 14,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 15,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 16,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 1,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 2,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 3,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 4,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 5,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 6,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 7,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 8,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 9,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 10,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 11,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 12,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 13,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 14,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 15,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 16,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 1,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 2,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 3,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 4,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 5,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 6,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 7,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 8,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 9,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 10,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 11,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 12,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 13,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 14,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 15,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 16,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 1,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 2,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 3,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 4,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 5,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 6,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 7,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 8,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 9,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 10,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 11,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 12,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 13,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 14,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 15,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 16,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 17,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 18,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 19,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 20,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 21,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 22,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 23,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 24,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 25,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 26,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 27,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 28,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 29,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 30,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 31,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Monday,Seat 32,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 17,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 18,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 19,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 20,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 21,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 22,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 23,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 24,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 25,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 26,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 27,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 28,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 29,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 30,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 31,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Tuesday,Seat 32,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 17,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 18,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 19,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 20,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 21,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 22,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 23,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 24,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 25,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 26,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 27,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 28,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 29,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 30,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 31,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Wednesday,Seat 32,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 17,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 18,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 19,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 20,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 21,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 22,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 23,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 24,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 25,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 26,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 27,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 28,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 29,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 30,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 31,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Thursday,Seat 32,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 17,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 18,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 19,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 20,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 21,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 22,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 23,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 24,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 25,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 26,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 27,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 28,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 29,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 30,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 31,,False,
+cf25e85d-7cd5-49ff-8fa0-5ca057bfd160,DORTMUND,Takoradi Office,Friday,Seat 32,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 1,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 2,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 3,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 4,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 5,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 6,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 7,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 8,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 9,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 10,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 11,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 12,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 1,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 2,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 3,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 4,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 5,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 6,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 7,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 8,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 9,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 10,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 11,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 12,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 1,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 2,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 3,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 4,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 5,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 6,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 7,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 8,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 9,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 10,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 11,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 12,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 1,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 2,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 3,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 4,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 5,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 6,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 7,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 8,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 9,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 10,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 11,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 12,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 1,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 2,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 3,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 4,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 5,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 6,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 7,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 8,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 9,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 10,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 11,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 12,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 13,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 14,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 15,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 16,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 17,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 18,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 19,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 20,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 21,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 22,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 23,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Monday,Seat 24,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 13,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 14,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 15,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 16,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 17,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 18,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 19,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 20,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 21,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 22,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 23,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Tuesday,Seat 24,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 13,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 14,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 15,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 16,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 17,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 18,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 19,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 20,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 21,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 22,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 23,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Wednesday,Seat 24,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 13,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 14,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 15,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 16,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 17,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 18,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 19,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 20,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 21,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 22,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 23,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Thursday,Seat 24,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 13,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 14,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 15,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 16,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 17,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 18,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 19,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 20,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 21,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 22,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 23,,False,
+ea0b65ff-9b16-4912-a5d3-c93ff3917435,STUTTGART,Takoradi Office,Friday,Seat 24,,False,
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Monday,Seat 1 / Reception,Alexander Anthony Eshun,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Monday,Seat 2,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Monday,Seat 3,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Monday,Seat 4,Stephen Seirh,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Tuesday,Seat 1 / Reception,Gloria Zoglie,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Tuesday,Seat 2,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Tuesday,Seat 3,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Tuesday,Seat 4,Stephen Seirh,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Wednesday,Seat 1 / Reception,Gloria Zoglie,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Wednesday,Seat 2,Daniel Frimpong,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Wednesday,Seat 3,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Wednesday,Seat 4,Stephen Seirh,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Thursday,Seat 1 / Reception,Gloria Zoglie,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Thursday,Seat 2,Daniel Frimpong,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Thursday,Seat 3,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Thursday,Seat 4,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Friday,Seat 1 / Reception,Alexander Anthony Eshun,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Friday,Seat 2,Daniel Frimpong,True,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Friday,Seat 3,,False,False
+902219ac-9cba-48e9-9bb5-ede61fd88ab4,BLOCK A FLOOR 0,Accra Office,Friday,Seat 4,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 1,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 2,Jeffery Afutu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 3,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 4,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 5,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 6,Phinehas Anteh,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 7,Bright Gawu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 8,Danita Lamptey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 9,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 10,Joseph Abuanor,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 11,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 12,Bernard Mawulorm Kofi Wodoame,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 13,Richard Elinam Nutsugah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 14,Charles Kobina Ofosu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 15,Gertrude Yeboah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 16,Kwamena Amo- Dadey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 17,Pekyi Fred,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 18,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 19,Alberto Sticher,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 20,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 21,Jason Acquah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 26,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 23,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 24,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Monday,Seat 25,Stephen  Takyi,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 1,Anthony Osei,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 2,Jeffery Afutu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 3,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 4,Prince Daveis,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 5,Emmanuel Gligbe,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 6,Phinehas Anteh,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 7,Bright Gawu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 8,Danita Lamptey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 9,Kwame Ofori-Gyau,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 10,Joseph Abuanor,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 11,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 12,Bernard Mawulorm Kofi Wodoame,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 13,Richard Elinam Nutsugah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 14,Charles Kobina Ofosu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 15,Maxwell Adomako,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 16,Kwamena Amo- Dadey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 17,Pekyi Fred,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 18,Daniella Amoako-Kankam,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 19,Alberto Sticher,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 20,Joseph Akayesi,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 21,Jason Acquah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 26,Alexander Anthony Eshun,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 23,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 24,Brenda Gota,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Tuesday,Seat 25,Stephen  Takyi,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 1,Anthony Osei,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 2,Jeffery Afutu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 3,Francis Owusu Bota,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 4,Prince Daveis,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 5,Emmanuel Gligbe,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 6,Phinehas Anteh,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 7,Bright Gawu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 8,Danita Lamptey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 9,Kwame Ofori-Gyau,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 10,Charles Kobina Ofosu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 11,Patrick Ayornu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 12,Bernard Mawulorm Kofi Wodoame,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 13,Richard Elinam Nutsugah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 14,Andrews Attakorah Amaniampong,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 15,Maxwell Adomako,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 16,Kwamena Amo- Dadey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 17,Pekyi Fred,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 18,Daniella Amoako-Kankam,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 19,Alberto Sticher,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 20,Joseph Akayesi,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 21,Jason Acquah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 26,Alexander Anthony Eshun,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 23,Gertrude Yeboah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 24,Brenda Gota,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Wednesday,Seat 25,Stephen  Takyi,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 1,Anthony Osei,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 2,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 3,Francis Owusu Bota,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 4,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 5,Emmanuel Gligbe,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 6,Emmanuel Omari,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 7,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 8,Danita Lamptey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 9,Kwame Ofori-Gyau,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 10,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 11,Patrick Ayornu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 12,Bernard Mawulorm Kofi Wodoame,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 13,Richard Elinam Nutsugah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 14,Andrews Attakorah Amaniampong,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 15,Maxwell Adomako,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 16,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 17,Pekyi Fred,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 18,Daniella Amoako-Kankam,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 19,Alberto Sticher,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 20,Joseph Akayesi,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 21,Jason Acquah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 26,Alexander Anthony Eshun,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 23,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 24,Brenda Gota,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Thursday,Seat 25,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 1,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 2,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 3,Francis Owusu Bota,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 4,Prince Daveis,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 5,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 6,Emmanuel Omari,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 7,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 8,Danita Lamptey,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 9,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 10,Joseph Abuanor,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 11,Patrick Ayornu,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 12,Bernard Mawulorm Kofi Wodoame,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 13,Richard Elinam Nutsugah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 14,Andrews Attakorah Amaniampong,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 15,Gertrude Yeboah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 16,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 17,Pekyi Fred,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 18,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 19,Alberto Sticher,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 20,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 21,Jason Acquah,True,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 26,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 23,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 24,,False,False
+c48a797c-a325-40df-bdd9-1682839a2a94,BLOCK A FLOOR 1,Accra Office,Friday,Seat 25,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 1,Hubert Agbenyegah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 2,Solomon Aboagye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 3,Frank Aboagye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 4,Kwadjo Wusu-Ansah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 5,Dey Alfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 6,Patrick Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 7,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 8,Nana Yaw Adjei Darko,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 9,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 10,Victor Bruce-Crabbe,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 11,Huvison Collins Yaw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 12,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 13,Doe Agudey Daniel,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 14,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 15,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 16,Phinehas Sersah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 17,Jeffery Mintah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 18,Jedidiah Eyiah-King,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 19,Michael Affanyi,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 20,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 21,Eugenia Dede Teye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 22,Emmanuel Oppong Junior,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 23,Andrew Koomson,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 24,Ewurabena Amoa-Bosompem,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 25,Jojo Akwaah Abbiw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Monday,Seat 26,Matthew/Harrison Amoah Godfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 1,Hubert Agbenyegah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 2,Papa Kofi Asante,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 3,Frank Aboagye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 4,Kwadjo Wusu-Ansah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 5,Dey Alfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 6,Patrick Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 7,Joseph Tugah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 8,Oduro Philip,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 9,Edward Akorlie,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 10,Victor Bruce-Crabbe,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 11,Huvison Collins Yaw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 12,Michael Johnson,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 13,Doe Agudey Daniel,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 14,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 15,Akwasi Kusi-Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 16,Phinehas Sersah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 17,Jeffery Mintah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 18,Jedidiah Eyiah-King,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 19,Michael Affanyi,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 20,Zerebel Tanu,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 21,Abigail Woolley,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 22,Emmanuel Odoi Odotei,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 23,Andrew Koomson,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 24,Ewurabena Amoa-Bosompem,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 25,Jojo Akwaah Abbiw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Tuesday,Seat 26,Matthew/Harrison Amoah Godfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 1,Hubert Agbenyegah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 2,George Junior Boadu,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 3,Zerebel Tanu,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 4,Kwadjo Wusu-Ansah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 5,Dey Alfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 6,Patrick Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 7,Phinehas Sersah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 8,Nana Yaw Adjei Darko,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 9,Edward Akorlie,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 10,Victor Bruce-Crabbe,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 11,Huvison Collins Yaw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 12,Michael Johnson,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 13,Doe Agudey Daniel,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 14,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 15,Akwasi Kusi-Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 16,Mawuli Badassou,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 17,Jeffery Mintah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 18,Jedidiah Eyiah-King,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 19,Andrew Koomson,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 20,Emmanuel Kpendo,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 21,Abigail Woolley,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 22,Emmanuel Odoi Odotei,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 23,Emmanuel Larbi,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 24,Ewurabena Amoa-Bosompem,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 25,Jojo Akwaah Abbiw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Wednesday,Seat 26,Matthew/Harrison Amoah Godfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 1,Solomon Aboagye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 2,Papa Kofi Asante,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 3,Zerebel Tanu,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 4,Kwadjo Wusu-Ansah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 5,Dey Alfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 6,Patrick Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 7,Joseph Tugah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 8,Oduro Philip,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 9,Edward Akorlie,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 10,Victor Bruce-Crabbe,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 11,Huvison Collins Yaw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 12,Michael Johnson,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 13,Doe Agudey Daniel,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 14,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 15,Emmanuel Oppong Junior,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 16,Mawuli Badassou,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 17,Jeffery Mintah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 18,Precious Jahlom Agboado,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 19,Michael Affanyi,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 20,Emmanuel Kpendo,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 21,Eugenia Dede Teye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 22,Emmanuel Odoi Odotei,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 23,Emmanuel Larbi,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 24,George Junior Boadu,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 25,Lloyd Theohilus Osabutey-Anikon,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Thursday,Seat 26,Matthew/Harrison Amoah Godfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 1,Solomon Aboagye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 2,Papa Kofi Asante,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 3,Frank Aboagye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 4,Kwadjo Wusu-Ansah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 5,Dey Alfred,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 6,Patrick Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 7,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 8,Nana Yaw Adjei Darko,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 9,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 10,Victor Bruce-Crabbe,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 11,Huvison Collins Yaw,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 12,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 13,Doe Agudey Daniel,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 14,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 15,Akwasi Kusi-Appiah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 16,Mawuli Badassou,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 17,Jeffery Mintah,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 18,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 19,,False,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 20,Emmanuel Kpendo,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 21,Eugenia Dede Teye,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 22,Emmanuel Oppong Junior,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 23,Emmanuel Larbi,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 24,George Junior Boadu,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 25,Lloyd Theohilus Osabutey-Anikon,True,False
+d6150d45-9f34-4e7f-a7eb-e81df0f180cb,BLOCK A FLOOR 2,Accra Office,Friday,Seat 26,Matthew/Harrison Amoah Godfred,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 1,Maxwell Odoom,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 2,Rafiatu Ibrahim,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 3,Winfred Mawuli Agbotey,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 4,Robert Hlover (May),True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 5,Mildred Nwinkom Naab,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 6,Elvis Edzordzinam Dagadu,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 7,Abdul Rauf Mustapha,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 8,Clement Adjei Nyanku,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 9,Bakah Samuel Bright,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 10,Ishaque Appiah,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 11,Henry Nana Antwi,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 12,Fiifi Akyer Yawson,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 13,Moses Gaveh,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 14,Emily Quarshie,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Monday,Seat 15,Swithin Annor Okyere,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 1,,False,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 2,,False,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 3,Winfred Mawuli Agbotey,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 4,Robert Hlover,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 5,Mildred Nwinkom Naab,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 6,Elvis Edzordzinam Dagadu,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 7,Abdul Rauf Mustapha,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 8,Clement Adjei Nyanku,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 9,Bakah Samuel Bright,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 10,Etornam Koko,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 11,Henry Nana Antwi,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 12,Fiifi Akyer Yawson,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 13,Moses Gaveh,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 14,Fuad Muhammed,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Tuesday,Seat 15,Swithin Annor Okyere,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 1,Maxwell Odoom,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 2,Gameli Jireh Anyam,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 3,Winfred Mawuli Agbotey,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 4,Robert Hlover,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 5,Mildred Nwinkom Naab,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 6,Elvis Edzordzinam Dagadu,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 7,Kingsley Acquah,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 8,Clement Adjei Nyanku,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 9,Bakah Samuel Bright,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 10,,False,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 11,Henry Nana Antwi,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 12,Fiifi Akyer Yawson,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 13,Moses Gaveh,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 14,Fuad Muhammed,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Wednesday,Seat 15,Swithin Annor Okyere,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 1,,False,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 2,Gameli Jireh Anyam,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 3,,False,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 4,Emily Quarshie,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 5,Mildred Nwinkom Naab,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 6,Elvis Edzordzinam Dagadu,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 7,Kingsley Acquah,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 8,Clement Adjei Nyanku,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 9,Bakah Samuel Bright,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 10,Ishaque Appiah,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 11,Henry Nana Antwi,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 12,Fiifi Akyer Yawson,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 13,Rafiatu Ibrahim,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 14,,False,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Thursday,Seat 15,Etornam Koko,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 1,Maxwell Odoom,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 2,Gameli Jireh Anyam,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 3,Abdul Rauf Mustapha,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 4,Emily Quarshie,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 5,Mildred Nwinkom Naab,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 6,Elvis Edzordzinam Dagadu,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 7,Kingsley Acquah,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 8,Clement Adjei Nyanku,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 9,Bakah Samuel Bright,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 10,Ishaque Appiah,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 11,Henry Nana Antwi,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 12,Fiifi Akyer Yawson,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 13,Rafiatu Ibrahim,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 14,Fuad Muhammed,True,False
+4d8077d9-a707-40fb-aa2b-fba27edc9277,BLOCK B FLOOR 0,Accra Office,Friday,Seat 15,Etornam Koko,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 1,Gabriel Rockson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 2,Kwabena Owusu Achiaw,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 3,Reujoy Amissah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 4,Gideon Agbosu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 5,Lois Mills,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 6,Isaac Martey,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 7,Hillary Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 8,Catherine Atswei Gyamfi,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 9,Spencer Edinam Williams,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 10,John Kponyo,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 11,Huda Yahaya,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 12,Felix Oppong,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 13,Stephen Diaba,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 14,Francis Koomson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 15,Ivy Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 16,Innocent Kuwornu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 17,Nunya Klah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 18,Yaw Imbeah Mintah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 19,Tracy Sarah Afram-Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 20,Ann-Vanessa Lartey,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Monday,Seat 21,Daniel Abakah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 1,Reujoy Amissah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 2,Kwabena Owusu Achiaw,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 3,Charles Biney,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 4,Gideon Agbosu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 5,Lois Mills,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 6,Isaac Martey,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 7,Hillary Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 8,Catherine Atswei Gyamfi,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 9,Spencer Edinam Williams,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 10,John Kponyo,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 11,Huda Yahaya,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 12,Felix Oppong,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 13,Stephen Diaba,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 14,Francis Koomson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 15,Ivy Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 16,Innocent Kuwornu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 17,Nunya Klah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 18,Yaw Imbeah Mintah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 19,Tracy Sarah Afram-Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 20,Ann-Vanessa Lartey,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Tuesday,Seat 21,Eric Hackman,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 1,Reujoy Amissah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 2,Kwabena Owusu Achiaw,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 3,Charles Biney,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 4,Dickson Anyaele,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 5,Lois Mills,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 6,Isaac Martey,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 7,Hillary Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 8,Catherine Atswei Gyamfi,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 9,Spencer Edinam Williams,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 10,Michael Kwame Appiah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 11,Huda Yahaya,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 12,Felix Oppong,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 13,Stephen Diaba,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 14,Francis Koomson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 15,Ivy Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 16,Innocent Kuwornu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 17,Nunya Klah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 18,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 19,Tracy Sarah Afram-Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 20,Judah Makinin,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Wednesday,Seat 21,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 1,Gabriel Rockson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 2,Dickson Anyaele,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 3,Charles Biney,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 4,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 5,Lois Mills,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 6,Isaac Martey,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 7,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 8,Catherine Atswei Gyamfi,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 9,Spencer Edinam Williams,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 10,Michael Kwame Appiah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 11,Huda Yahaya,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 12,Felix Oppong,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 13,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 14,Francis Koomson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 15,Ivy Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 16,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 17,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 18,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 19,Judah Makinin,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 20,Eric Hackman,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Thursday,Seat 21,Daniel Abakah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 1,Gabriel Rockson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 2,Dickson Anyaele,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 3,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 4,Gideon Agbosu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 5,Lois Mills,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 6,Isaac Martey,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 7,John Kponyo,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 8,Catherine Atswei Gyamfi,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 9,Spencer Edinam Williams,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 10,Michael Kwame Appiah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 11,Huda Yahaya,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 12,Felix Oppong,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 13,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 14,Francis Koomson,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 15,Ivy Owusu,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 16,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 17,,False,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 18,Yaw Imbeah Mintah,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 19,Judah Makinin,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 20,Eric Hackman,True,False
+cb3ae34e-7567-41d0-afd9-66a2c65ee38c,BLOCK B FLOOR 1,Accra Office,Friday,Seat 21,Daniel Abakah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 1,Caleb Osam,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 2,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 3,Marzuk Sanni Entsie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 4,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 5,Cristian Nii Solomon,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 6,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 7,Babita Sagoe,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 8,Joshua Tetteh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 9,Illona Addae,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 10,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 11,Ernest Kojo Owusu Essien,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 12,Kwame Gyimah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 13,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 14,Isaac Tandoh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 15,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 16,Delali Kanda,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 17,Ekow Nii Saki Sackey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 18,Georgina Badu Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 19,Nathan Kulewoshie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 20,Robert Amoah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 21,Michael Odartei Lamptey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 22,Fafa Aboagye,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 23,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 24,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 25,Emmanuel Kwabena Edusei,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 26,Bright Kofi Dompeh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 27,Palal Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 28,Grace Nalon,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 29,Geoffrey Dadzie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Monday,Seat 30,Bless Ahadjie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 1,Caleb Osam,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 2,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 3,Marzuk Sanni Entsie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 4,Wonderful Joel Owusu-Ansah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 5,Jessica Lartey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 6,Kwabena Ababio,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 7,Babita Sagoe,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 8,Joshua Tetteh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 9,Illona Addae,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 10,Gilbert Twum,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 11,Ernest Kojo Owusu Essien,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 12,Kwame Gyimah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 13,Richard  Korankye,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 14,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 15,Alexander Agyeman,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 16,Delali Kanda,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 17,Ekow Nii Saki Sackey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 18,Georgina Badu Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 19,Nathan Kulewoshie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 20,Robert Amoah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 21,Michael Odartei Lamptey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 22,Elliott Awayiga,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 23,Jerry Agbesi,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 24,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 25,Emmanuel Kwabena Edusei,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 26,Bright Kofi Dompeh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 27,Palal Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 28,Grace Nalon,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 29,Geoffrey Dadzie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Tuesday,Seat 30,Bless Ahadjie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 1,Michael Tenu,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 2,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 3,Emmanuel Kwabena Edusei,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 4,Wonderful Joel Owusu-Ansah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 5,Jessica Lartey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 6,Kwabena Ababio,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 7,Babita Sagoe,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 8,Georgina Badu Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 9,Illona Addae,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 10,Gilbert Twum,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 11,Ernest Kojo Owusu Essien,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 12,Kwame Gyimah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 13,Richard  Korankye,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 14,Isaac Tandoh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 15,Alexander Agyeman,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 16,Prince Ankamah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 17,Ekow Nii Saki Sackey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 18,Rachael Popoola,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 19,Nathan Kulewoshie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 20,Robert Amoah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 21,Michael Odartei Lamptey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 22,Elliott Awayiga,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 23,Jerry Agbesi,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 24,Ebenezer Butias,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 25,Frederick Frimpong Arthur,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 26,Bright Kofi Dompeh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 27,Palal Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 28,Grace Nalon,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 29,Geoffrey Dadzie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Wednesday,Seat 30,Bless Ahadjie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 1,Michael Tenu,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 2,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 3,Emmanuel Kwabena Edusei,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 4,Wonderful Joel Owusu-Ansah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 5,Jessica Lartey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 6,Kwabena Ababio,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 7,Cristian Nii Solomon,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 8,Joshua Tetteh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 9,Illona Addae,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 10,Gilbert Twum,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 11,Ernest Kojo Owusu Essien,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 12,Kwame Gyimah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 13,Richard  Korankye,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 14,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 15,Alexander Agyeman,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 16,Prince Ankamah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 17,Ekow Nii Saki Sackey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 18,Rachael Popoola,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 19,Fafa Aboagye,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 20,Robert Amoah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 21,Michael Odartei Lamptey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 22,Elliott Awayiga,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 23,Jerry Agbesi,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 24,Ebenezer Butias,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 25,Frederick Frimpong Arthur,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 26,Bright Kofi Dompeh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 27,Palal Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 28,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 29,Geoffrey Dadzie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Thursday,Seat 30,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 1,Michael Tenu,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 2,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 3,Emmanuel Kwabena Edusei,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 4,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 5,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 6,Caleb Osam,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 7,Cristian Nii Solomon,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 8,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 9,Illona Addae,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 10,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 11,Ernest Kojo Owusu Essien,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 12,Kwame Gyimah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 13,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 14,Isaac Tandoh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 15,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 16,Prince Ankamah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 17,Ekow Nii Saki Sackey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 18,Rachael Popoola,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 19,Fafa Aboagye,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 20,Robert Amoah,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 21,Michael Odartei Lamptey,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 22,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 23,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 24,Ebenezer Butias,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 25,Frederick Frimpong Arthur,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 26,Bright Kofi Dompeh,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 27,Palal Asare,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 28,,False,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 29,Geoffrey Dadzie,True,False
+78891bd9-d359-4747-8721-1460a6e9421e,BLOCK B FLOOR 2,Accra Office,Friday,Seat 30,,False,False
