@@ -1,0 +1,4 @@
+building_id,office_id,building_name,address,total_floors,is_active,created_at,updated_at
+843e4f84-0af5-4dad-9a8a-060f6929dbae,60d7d2e2-92d6-45d2-9da2-7bcfe4379079,Kumasi Office,,3,True,2026-04-20T11:16:17.412743Z,2026-04-20T11:16:17.412743Z
+f20dc9f0-8f6d-4670-9397-c4aa35252e4b,b3e89ac7-aba3-48b5-bb48-32b8fbde45e7,Takoradi Office,,3,True,2026-04-20T11:16:17.412743Z,2026-04-20T11:16:17.412743Z
+5a1942ac-e48b-4224-b6b1-f8f950867920,5e776e38-0cc7-4a89-8901-be5b7886a8bb,Accra Office,,5,True,2026-04-20T11:16:17.412743Z,2026-04-20T11:16:17.412743Z
