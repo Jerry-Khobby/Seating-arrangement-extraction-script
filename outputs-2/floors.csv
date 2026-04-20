@@ -1,0 +1,6 @@
+floor_id,building_id,floor_name,floor_number,is_active
+001d8c2e-6092-46a8-94fb-129267cf5687,874f945a-821e-4a4e-a23f-eb6a83ba6017,Floor 1,1,True
+2ee2734e-e001-423f-9ed5-ba9e160666c5,3b5a214f-0462-4a22-9716-95be6ad63a21,Floor 1,1,True
+a6562fc2-b347-4747-99e6-4f1203f089c5,63faf2b5-5ab7-42d5-8636-ee75a1103d34,Floor 0,0,True
+bce1bded-2822-476e-96c7-6189a4a85fc3,63faf2b5-5ab7-42d5-8636-ee75a1103d34,Floor 1,1,True
+aaaa8419-4d70-4245-ba39-5c01854272d3,63faf2b5-5ab7-42d5-8636-ee75a1103d34,Floor 2,2,True

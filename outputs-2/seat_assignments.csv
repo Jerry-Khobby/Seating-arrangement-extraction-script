@@ -1,0 +1,1931 @@
+office,floor,room,seat,day,employee,occupied,is_hot_desk
+Kumasi Office,Floor 1,SEKONDI,Seat 1,Monday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 2,Monday,Ayimbila Nsolemna,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 3,Monday,Kingsley Botchway,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 4,Monday,Kingsley Amankwah,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 5,Monday,Gideon Dakore,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 6,Monday,Jimmy Kodwo Essel,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 7,Monday,Asumah Yakubu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 8,Monday,Dennis Owusu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 9,Monday,Nlenjibi Timothy,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 10,Monday,Samuel Junior Arthur,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 11,Monday,Baffour Kofi Gyawu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 12,Monday,Rhoda Arthur,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 13,Monday,Zakaria Osman,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 14,Monday,Adams Miracle,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 15,Monday,Abulfail Ahmed Rufai,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 16,Monday,Gideon Boateng,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 1,Tuesday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 2,Tuesday,Ayimbila Nsolemna,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 3,Tuesday,Kingsley Botchway,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 4,Tuesday,Kingsley Amankwah,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 5,Tuesday,Gideon Dakore,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 6,Tuesday,Jimmy Kodwo Essel,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 7,Tuesday,Asumah Yakubu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 8,Tuesday,Dennis Owusu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 9,Tuesday,Nlenjibi Timothy,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 10,Tuesday,Samuel Junior Arthur,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 11,Tuesday,Baffour Kofi Gyawu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 12,Tuesday,Rhoda Arthur,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 13,Tuesday,Zakaria Osman,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 14,Tuesday,Adams Miracle,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 15,Tuesday,Abulfail Ahmed Rufai,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 16,Tuesday,Gideon Boateng,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 1,Wednesday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 2,Wednesday,Ayimbila Nsolemna,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 3,Wednesday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 4,Wednesday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 5,Wednesday,Gideon Dakore,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 6,Wednesday,Jimmy Kodwo Essel,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 7,Wednesday,Asumah Yakubu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 8,Wednesday,Samuel Amo,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 9,Wednesday,Nlenjibi Timothy,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 10,Wednesday,Samuel Junior Arthur,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 11,Wednesday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 12,Wednesday,Rhoda Arthur,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 13,Wednesday,Zakaria Osman,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 14,Wednesday,Adams Miracle,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 15,Wednesday,Jenef-Great Alemonai,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 16,Wednesday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 1,Thursday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 2,Thursday,Ayimbila Nsolemna,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 3,Thursday,Kingsley Botchway,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 4,Thursday,Kingsley Amankwah,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 5,Thursday,Gideon Dakore,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 6,Thursday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 7,Thursday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 8,Thursday,Samuel Amo,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 9,Thursday,Nlenjibi Timothy,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 10,Thursday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 11,Thursday,Baffour Kofi Gyawu,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 12,Thursday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 13,Thursday,Zakaria Osman,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 14,Thursday,Adams Miracle,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 15,Thursday,Jenef-Great Alemonai,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 16,Thursday,Gideon Boateng,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 1,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 2,Friday,Ayimbila Nsolemna,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 3,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 4,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 5,Friday,Gideon Dakore,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 6,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 7,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 8,Friday,Samuel Amo,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 9,Friday,Nlenjibi Timothy,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 10,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 11,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 12,Friday,,False,
+Kumasi Office,Floor 1,SEKONDI,Seat 13,Friday,Zakaria Osman,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 14,Friday,Adams Miracle,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 15,Friday,Jenef-Great Alemonai,True,
+Kumasi Office,Floor 1,SEKONDI,Seat 16,Friday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 1,Monday,Jeremiah Anku Coblah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 2,Monday,Paul Kofi Osei,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 3,Monday,Julius Abaabagre,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 4,Monday,Jeffery Twumasi Owusu,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 5,Monday,Nana Kweku Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 6,Monday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 7,Monday,Edward Obeng Dankwah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 8,Monday,Daniel Antwi Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 9,Monday,Emmanuel Preprah Mensah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 10,Monday,Elisha Samuel Gyamfi,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 11,Monday,Dosimey Olivia,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 12,Monday,Eric Obeng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 13,Monday,Daniel Kusi Boateng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 14,Monday,Solomon Sarfo,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 15,Monday,Abdul Suraj,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 16,Monday,Sefakor Edwina Dodor,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 1,Tuesday,Jeremiah Anku Coblah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 2,Tuesday,Paul Kofi Osei,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 3,Tuesday,Julius Abaabagre,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 4,Tuesday,Jeffery Twumasi Owusu,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 5,Tuesday,Nana Kweku Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 6,Tuesday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 7,Tuesday,Edward Obeng Dankwah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 8,Tuesday,Daniel Antwi Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 9,Tuesday,Emmanuel Preprah Mensah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 10,Tuesday,Elisha Samuel Gyamfi,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 11,Tuesday,Dosimey Olivia,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 12,Tuesday,Eric Obeng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 13,Tuesday,Daniel Kusi Boateng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 14,Tuesday,Solomon Sarfo,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 15,Tuesday,Abdul Suraj,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 16,Tuesday,Sefakor Edwina Dodor,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 1,Wednesday,Jeremiah Anku Coblah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 2,Wednesday,Paul Kofi Osei,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 3,Wednesday,Julius Abaabagre,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 4,Wednesday,Jeffery Twumasi Owusu,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 5,Wednesday,Nana Kweku Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 6,Wednesday,Rose Otukuo Tetteh,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 7,Wednesday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 8,Wednesday,Daniel Antwi Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 9,Wednesday,Emmanuel Preprah Mensah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 10,Wednesday,Elisha Samuel Gyamfi,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 11,Wednesday,Dosimey Olivia,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 12,Wednesday,Samuel Danquah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 13,Wednesday,Daniel Kusi Boateng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 14,Wednesday,Tuffour Boateng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 15,Wednesday,Abdul Suraj,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 16,Wednesday,Ebenezer Nyarko,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 1,Thursday,Jeremiah Anku Coblah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 2,Thursday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 3,Thursday,Julius Abaabagre,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 4,Thursday,Jeffery Twumasi Owusu,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 5,Thursday,Nana Kweku Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 6,Thursday,Rose Otukuo Tetteh,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 7,Thursday,Edward Obeng Dankwah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 8,Thursday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 9,Thursday,Emmanuel Preprah Mensah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 10,Thursday,Eric Obeng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 11,Thursday,Dosimey Olivia,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 12,Thursday,Samuel Danquah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 13,Thursday,Solomon Sarfo,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 14,Thursday,Tuffour Boateng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 15,Thursday,Sefakor Edwina Dodor,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 16,Thursday,Ebenezer Nyarko,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 1,Friday,Jeremiah Anku Coblah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 2,Friday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 3,Friday,Julius Abaabagre,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 4,Friday,Jeffery Twumasi Owusu,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 5,Friday,Nana Kweku Sarpong,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 6,Friday,Rose Otukuo Tetteh,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 7,Friday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 8,Friday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 9,Friday,Emmanuel Preprah Mensah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 10,Friday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 11,Friday,Dosimey Olivia,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 12,Friday,Samuel Danquah,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 13,Friday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 14,Friday,Tuffour Boateng,True,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 15,Friday,,False,
+Kumasi Office,Floor 1,ADIEMBRA,Seat 16,Friday,Ebenezer Nyarko,True,
+Kumasi Office,Floor 1,Kweikuma,Seat 1,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 2,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 3,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 4,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 5,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 6,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 7,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 8,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 9,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 10,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 11,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 12,Monday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 1,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 2,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 3,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 4,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 5,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 6,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 7,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 8,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 9,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 10,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 11,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 12,Tuesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 1,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 2,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 3,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 4,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 5,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 6,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 7,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 8,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 9,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 10,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 11,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 12,Wednesday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 1,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 2,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 3,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 4,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 5,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 6,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 7,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 8,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 9,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 10,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 11,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 12,Thursday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 1,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 2,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 3,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 4,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 5,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 6,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 7,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 8,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 9,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 10,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 11,Friday,,False,
+Kumasi Office,Floor 1,Kweikuma,Seat 12,Friday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 1,Monday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 2,Monday,Nnyabe Solomon Chamamme,True,
+Kumasi Office,Floor 1,APOWA,Seat 3,Monday,Kumi Silas,True,
+Kumasi Office,Floor 1,APOWA,Seat 4,Monday,Joel Livingstone Kofi Ackah,True,
+Kumasi Office,Floor 1,APOWA,Seat 5,Monday,Osei Kofi Frimpong,True,
+Kumasi Office,Floor 1,APOWA,Seat 6,Monday,Sudais Abdul Hamid,True,
+Kumasi Office,Floor 1,APOWA,Seat 7,Monday,Zanita Essel Quaicoe,True,
+Kumasi Office,Floor 1,APOWA,Seat 8,Monday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 9,Monday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 10,Monday,Japheth Selorm,True,
+Kumasi Office,Floor 1,APOWA,Seat 11,Monday,Gloria Tani Tampuri,True,
+Kumasi Office,Floor 1,APOWA,Seat 12,Monday,Alalinga Mubarik,True,
+Kumasi Office,Floor 1,APOWA,Seat 1,Tuesday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 2,Tuesday,Nnyabe Solomon Chamamme,True,
+Kumasi Office,Floor 1,APOWA,Seat 3,Tuesday,Kumi Silas,True,
+Kumasi Office,Floor 1,APOWA,Seat 4,Tuesday,Joel Livingstone Kofi Ackah,True,
+Kumasi Office,Floor 1,APOWA,Seat 5,Tuesday,Osei Kofi Frimpong,True,
+Kumasi Office,Floor 1,APOWA,Seat 6,Tuesday,Sudais Abdul Hamid,True,
+Kumasi Office,Floor 1,APOWA,Seat 7,Tuesday,Zanita Essel Quaicoe,True,
+Kumasi Office,Floor 1,APOWA,Seat 8,Tuesday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 9,Tuesday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 10,Tuesday,Japheth Selorm,True,
+Kumasi Office,Floor 1,APOWA,Seat 11,Tuesday,Gloria Tani Tampuri,True,
+Kumasi Office,Floor 1,APOWA,Seat 12,Tuesday,Alalinga Mubarik,True,
+Kumasi Office,Floor 1,APOWA,Seat 1,Wednesday,Evans Elabo,True,
+Kumasi Office,Floor 1,APOWA,Seat 2,Wednesday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 3,Wednesday,Kumi Silas,True,
+Kumasi Office,Floor 1,APOWA,Seat 4,Wednesday,Joel Livingstone Kofi Ackah,True,
+Kumasi Office,Floor 1,APOWA,Seat 5,Wednesday,Osei Kofi Frimpong,True,
+Kumasi Office,Floor 1,APOWA,Seat 6,Wednesday,Sudais Abdul Hamid,True,
+Kumasi Office,Floor 1,APOWA,Seat 7,Wednesday,Zanita Essel Quaicoe,True,
+Kumasi Office,Floor 1,APOWA,Seat 8,Wednesday,Benedicta Nana Fosua Asare,True,
+Kumasi Office,Floor 1,APOWA,Seat 9,Wednesday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 10,Wednesday,Japheth Selorm,True,
+Kumasi Office,Floor 1,APOWA,Seat 11,Wednesday,Salifu Zeba,True,
+Kumasi Office,Floor 1,APOWA,Seat 12,Wednesday,Alalinga Mubarik,True,
+Kumasi Office,Floor 1,APOWA,Seat 1,Thursday,Evans Elabo,True,
+Kumasi Office,Floor 1,APOWA,Seat 2,Thursday,Nnyabe Solomon Chamamme,True,
+Kumasi Office,Floor 1,APOWA,Seat 3,Thursday,Kumi Silas,True,
+Kumasi Office,Floor 1,APOWA,Seat 4,Thursday,Joel Livingstone Kofi Ackah,True,
+Kumasi Office,Floor 1,APOWA,Seat 5,Thursday,Osei Kofi Frimpong,True,
+Kumasi Office,Floor 1,APOWA,Seat 6,Thursday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 7,Thursday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 8,Thursday,Benedicta Nana Fosua Asare,True,
+Kumasi Office,Floor 1,APOWA,Seat 9,Thursday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 10,Thursday,Japheth Selorm,True,
+Kumasi Office,Floor 1,APOWA,Seat 11,Thursday,Salifu Zeba,True,
+Kumasi Office,Floor 1,APOWA,Seat 12,Thursday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 1,Friday,Evans Elabo,True,
+Kumasi Office,Floor 1,APOWA,Seat 2,Friday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 3,Friday,Kumi Silas,True,
+Kumasi Office,Floor 1,APOWA,Seat 4,Friday,Joel Livingstone Kofi Ackah,True,
+Kumasi Office,Floor 1,APOWA,Seat 5,Friday,Osei Kofi Frimpong,True,
+Kumasi Office,Floor 1,APOWA,Seat 6,Friday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 7,Friday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 8,Friday,Benedicta Nana Fosua Asare,True,
+Kumasi Office,Floor 1,APOWA,Seat 9,Friday,,False,
+Kumasi Office,Floor 1,APOWA,Seat 10,Friday,Japheth Selorm,True,
+Kumasi Office,Floor 1,APOWA,Seat 11,Friday,Salifu Zeba,True,
+Kumasi Office,Floor 1,APOWA,Seat 12,Friday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 1,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 2,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 3,Monday,Henry Nana Antwi,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 4,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 5,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 6,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 7,Monday,Daniel Ajayi Lotsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 8,Monday,Godsaves Kojo Essuman,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 9,Monday,Vanessa Addo,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 10,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 11,Monday,Listowel Adolwin Moro,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 12,Monday,Samuel Gyabeng Asante,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 13,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 14,Monday,Emmanuel Joe Letsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 15,Monday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 1,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 2,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 3,Tuesday,Henry Nana Antwi,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 4,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 5,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 6,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 7,Tuesday,Daniel Ajayi Lotsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 8,Tuesday,Godsaves Kojo Essuman,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 9,Tuesday,Vanessa Addo,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 10,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 11,Tuesday,Listowel Adolwin Moro,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 12,Tuesday,Samuel Gyabeng Asante,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 13,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 14,Tuesday,Emmanuel Joe Letsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 15,Tuesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 1,Wednesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 2,Wednesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 3,Wednesday,Henry Nana Antwi,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 4,Wednesday,Charles Adu Nkansah,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 5,Wednesday,Andrew Marfo,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 6,Wednesday,Clara Borlu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 7,Wednesday,Daniel Ajayi Lotsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 8,Wednesday,Godsaves Kojo Essuman,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 9,Wednesday,Vanessa Addo,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 10,Wednesday,Ignatus Anim,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 11,Wednesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 12,Wednesday,Samuel Gyabeng Asante,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 13,Wednesday,Brempong Appiah Dankwah,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 14,Wednesday,Emmanuel Joe Letsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 15,Wednesday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 1,Thursday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 2,Thursday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 3,Thursday,Henry Nana Antwi,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 4,Thursday,Charles Adu Nkansah,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 5,Thursday,Andrew Marfo,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 6,Thursday,Clara Borlu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 7,Thursday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 8,Thursday,Godsaves Kojo Essuman,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 9,Thursday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 10,Thursday,Ignatus Anim,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 11,Thursday,Listowel Adolwin Moro,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 12,Thursday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 13,Thursday,Brempong Appiah Dankwah,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 14,Thursday,Emmanuel Joe Letsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 15,Thursday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 1,Friday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 2,Friday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 3,Friday,Henry Nana Antwi,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 4,Friday,Charles Adu Nkansah,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 5,Friday,Andrew Marfo,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 6,Friday,Clara Borlu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 7,Friday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 8,Friday,Godsaves Kojo Essuman,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 9,Friday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 10,Friday,Ignatus Anim,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 11,Friday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 12,Friday,,False,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 13,Friday,Brempong Appiah Dankwah,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 14,Friday,Emmanuel Joe Letsu,True,
+Kumasi Office,Floor 1,EFFIAKUMA,Seat 15,Friday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 1,Monday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 2,Monday,Eliezer Kwasi Gyan,True,
+Kumasi Office,Floor 1,APREMDO,Seat 3,Monday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 4,Monday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 5,Monday,Cletus Nehinlalei Mangu,True,
+Kumasi Office,Floor 1,APREMDO,Seat 6,Monday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 7,Monday,Bernard Ograh,True,
+Kumasi Office,Floor 1,APREMDO,Seat 8,Monday,Abraham Jimah Zorwi,True,
+Kumasi Office,Floor 1,APREMDO,Seat 9,Monday,Abdul Basit Mohammed,True,
+Kumasi Office,Floor 1,APREMDO,Seat 10,Monday,Zaidan Ali Usman,True,
+Kumasi Office,Floor 1,APREMDO,Seat 11,Monday,Noah Jamal,True,
+Kumasi Office,Floor 1,APREMDO,Seat 12,Monday,Tob Adoba,True,
+Kumasi Office,Floor 1,APREMDO,Seat 13,Monday,Isaac Obo Enemil,True,
+Kumasi Office,Floor 1,APREMDO,Seat 14,Monday,Evans Ankomah,True,
+Kumasi Office,Floor 1,APREMDO,Seat 1,Tuesday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 2,Tuesday,Eliezer Kwasi Gyan,True,
+Kumasi Office,Floor 1,APREMDO,Seat 3,Tuesday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 4,Tuesday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 5,Tuesday,Cletus Nehinlalei Mangu,True,
+Kumasi Office,Floor 1,APREMDO,Seat 6,Tuesday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 7,Tuesday,Bernard Ograh,True,
+Kumasi Office,Floor 1,APREMDO,Seat 8,Tuesday,Abraham Jimah Zorwi,True,
+Kumasi Office,Floor 1,APREMDO,Seat 9,Tuesday,Abdul Basit Mohammed,True,
+Kumasi Office,Floor 1,APREMDO,Seat 10,Tuesday,Zaidan Ali Usman,True,
+Kumasi Office,Floor 1,APREMDO,Seat 11,Tuesday,Noah Jamal,True,
+Kumasi Office,Floor 1,APREMDO,Seat 12,Tuesday,Tob Adoba,True,
+Kumasi Office,Floor 1,APREMDO,Seat 13,Tuesday,Isaac Obo Enemil,True,
+Kumasi Office,Floor 1,APREMDO,Seat 14,Tuesday,Evans Ankomah,True,
+Kumasi Office,Floor 1,APREMDO,Seat 1,Wednesday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 2,Wednesday,Eliezer Kwasi Gyan,True,
+Kumasi Office,Floor 1,APREMDO,Seat 3,Wednesday,Jonathan kusi Ankrah Nsiah,True,
+Kumasi Office,Floor 1,APREMDO,Seat 4,Wednesday,Kwabena Asabere,True,
+Kumasi Office,Floor 1,APREMDO,Seat 5,Wednesday,Cletus Nehinlalei Mangu,True,
+Kumasi Office,Floor 1,APREMDO,Seat 6,Wednesday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 7,Wednesday,Bernard Ograh,True,
+Kumasi Office,Floor 1,APREMDO,Seat 8,Wednesday,Abraham Jimah Zorwi,True,
+Kumasi Office,Floor 1,APREMDO,Seat 9,Wednesday,Abdul Basit Mohammed,True,
+Kumasi Office,Floor 1,APREMDO,Seat 10,Wednesday,Zaidan Ali Usman,True,
+Kumasi Office,Floor 1,APREMDO,Seat 11,Wednesday,Noah Jamal,True,
+Kumasi Office,Floor 1,APREMDO,Seat 12,Wednesday,Tob Adoba,True,
+Kumasi Office,Floor 1,APREMDO,Seat 13,Wednesday,Isaac Obo Enemil,True,
+Kumasi Office,Floor 1,APREMDO,Seat 14,Wednesday,Evans Ankomah,True,
+Kumasi Office,Floor 1,APREMDO,Seat 1,Thursday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 2,Thursday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 3,Thursday,Jonathan kusi Ankrah Nsiah,True,
+Kumasi Office,Floor 1,APREMDO,Seat 4,Thursday,Kwabena Asabere,True,
+Kumasi Office,Floor 1,APREMDO,Seat 5,Thursday,Cletus Nehinlalei Mangu,True,
+Kumasi Office,Floor 1,APREMDO,Seat 6,Thursday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 7,Thursday,Bernard Ograh,True,
+Kumasi Office,Floor 1,APREMDO,Seat 8,Thursday,Abraham Jimah Zorwi,True,
+Kumasi Office,Floor 1,APREMDO,Seat 9,Thursday,Abdul Basit Mohammed,True,
+Kumasi Office,Floor 1,APREMDO,Seat 10,Thursday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 11,Thursday,Noah Jamal,True,
+Kumasi Office,Floor 1,APREMDO,Seat 12,Thursday,Tob Adoba,True,
+Kumasi Office,Floor 1,APREMDO,Seat 13,Thursday,Isaac Obo Enemil,True,
+Kumasi Office,Floor 1,APREMDO,Seat 14,Thursday,Evans Ankomah,True,
+Kumasi Office,Floor 1,APREMDO,Seat 1,Friday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 2,Friday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 3,Friday,Jonathan kusi Ankrah Nsiah,True,
+Kumasi Office,Floor 1,APREMDO,Seat 4,Friday,Kwabena Asabere,True,
+Kumasi Office,Floor 1,APREMDO,Seat 5,Friday,Cletus Nehinlalei Mangu,True,
+Kumasi Office,Floor 1,APREMDO,Seat 6,Friday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 7,Friday,Bernard Ograh,True,
+Kumasi Office,Floor 1,APREMDO,Seat 8,Friday,Abraham Jimah Zorwi,True,
+Kumasi Office,Floor 1,APREMDO,Seat 9,Friday,Abdul Basit Mohammed,True,
+Kumasi Office,Floor 1,APREMDO,Seat 10,Friday,,False,
+Kumasi Office,Floor 1,APREMDO,Seat 11,Friday,Noah Jamal,True,
+Kumasi Office,Floor 1,APREMDO,Seat 12,Friday,Tob Adoba,True,
+Kumasi Office,Floor 1,APREMDO,Seat 13,Friday,Isaac Obo Enemil,True,
+Kumasi Office,Floor 1,APREMDO,Seat 14,Friday,Evans Ankomah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 1,Monday,Robert Elinam Hlovor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 2,Monday,Maxwell Kwesi Ehiawey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 3,Monday,Asiedu Saah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 4,Monday,Emmanuel Eshun,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 5,Monday,Isaac Kwadzo Agbobli,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 6,Monday,Abraham Opoku Gyamfi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 7,Monday,Abraham Ayamigah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 8,Monday,Benjamin Nyankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 9,Monday,Haruna Ibrahim Konlan,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 10,Monday,Linda Pomaa Boateng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 11,Monday,Andy Kwasi Debrah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 12,Monday,Godsway Kojo Nyatuame,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 13,Monday,Ebenezer Buabeng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 14,Monday,Abdul-Razak Hussein,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 15,Monday,Richard Bouaro,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 16,Monday,Clement Owireku-bogyah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 17,Monday,Robertson Asare Otoo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 18,Monday,Theophilus Kofi Gordon,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 19,Monday,Emmanuel Darkwah Ampofo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 20,Monday,Enoch Boison,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 21,Monday,Linda Kumah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 22,Monday,Bilal Maltiti Abubakari,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 23,Monday,Justice Abban,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 24,Monday,Samuel Nana Baffour Asare,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 1,Tuesday,Robert Elinam Hlovor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 2,Tuesday,Maxwell Kwesi Ehiawey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 3,Tuesday,Asiedu Saah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 4,Tuesday,Emmanuel Eshun,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 5,Tuesday,Isaac Kwadzo Agbobli,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 6,Tuesday,Abraham Opoku Gyamfi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 7,Tuesday,Abraham Ayamigah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 8,Tuesday,Benjamin Nyankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 9,Tuesday,Haruna Ibrahim Konlan,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 10,Tuesday,Linda Pomaa Boateng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 11,Tuesday,Andy Kwasi Debrah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 12,Tuesday,Godsway Kojo Nyatuame,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 13,Tuesday,Ebenezer Buabeng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 14,Tuesday,Abdul-Razak Hussein,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 15,Tuesday,Richard Bouaro,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 16,Tuesday,Clement Owireku-bogyah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 17,Tuesday,Robertson Asare Otoo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 18,Tuesday,Theophilus Kofi Gordon,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 19,Tuesday,Emmanuel Darkwah Ampofo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 20,Tuesday,Enoch Boison,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 21,Tuesday,Linda Kumah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 22,Tuesday,Bilal Maltiti Abubakari,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 23,Tuesday,Justice Abban,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 24,Tuesday,Samuel Nana Baffour Asare,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 1,Wednesday,Robert Elinam Hlovor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 2,Wednesday,Emmanuel Ayirebi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 3,Wednesday,Asiedu Saah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 4,Wednesday,Emmanuel Eshun,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 5,Wednesday,Isaac Kwadzo Agbobli,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 6,Wednesday,Abraham Opoku Gyamfi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 7,Wednesday,Abraham Ayamigah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 8,Wednesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 9,Wednesday,Bismark Kadogbe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 10,Wednesday,Linda Pomaa Boateng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 11,Wednesday,Andy Kwasi Debrah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 12,Wednesday,Godsway Kojo Nyatuame,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 13,Wednesday,Samuel Enoh,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 14,Wednesday,Abdul-Razak Hussein,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 15,Wednesday,Benjamin Nyankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 16,Wednesday,Clement Owireku-bogyah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 17,Wednesday,Richard Bouaro,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 18,Wednesday,Justice Abban,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 19,Wednesday,Emmanuel Darkwah Ampofo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 20,Wednesday,Ebenezer Buabeng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 21,Wednesday,Jude Kwofie,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 22,Wednesday,Joseph Kobina Sam,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 23,Wednesday,Stanley Yaw Appiah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 24,Wednesday,Jacqueline Abban Botchway,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 1,Thursday,Abigail Nyameyie Arko,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 2,Thursday,Emmanuel Ayirebi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 3,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 4,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 5,Thursday,Maxwell Kwesi Ehiawey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 6,Thursday,Abraham Opoku Gyamfi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 7,Thursday,Abraham Ayamigah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 8,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 9,Thursday,Haruna Ibrahim Konlan,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 10,Thursday,Bismark Kadogbe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 11,Thursday,Andy Kwasi Debrah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 12,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 13,Thursday,Samuel Enoh,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 14,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 15,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 16,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 17,Thursday,Robertson Asare Otoo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 18,Thursday,Theophilus Kofi Gordon,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 19,Thursday,Bilal Maltiti Abubakari,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 20,Thursday,Jude Kwofie,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 21,Thursday,Linda Kumah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 22,Thursday,Joseph Kobina Sam,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 23,Thursday,Stanley Yaw Appiah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 24,Thursday,Jacqueline Abban Botchway,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 1,Friday,Abigail Nyameyie Arko,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 2,Friday,Emmanuel Ayirebi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 3,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 4,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 5,Friday,Maxwell Kwesi Ehiawey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 6,Friday,Abraham Opoku Gyamfi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 7,Friday,Abraham Ayamigah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 8,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 9,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 10,Friday,Bismark Kadogbe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 11,Friday,Andy Kwasi Debrah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 12,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 13,Friday,Samuel Enoh,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 14,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 15,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 16,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 17,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 18,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 19,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 20,Friday,Jude Kwofie,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 21,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 22,Friday,Joseph Kobina Sam,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 23,Friday,Stanley Yaw Appiah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 24,Friday,Jacqueline Abban Botchway,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 25,Monday,Adolf Menano,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 26,Monday,Alice Fremah Boakye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 27,Monday,Manasseh Aikins Sarfo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 28,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 29,Monday,Francine-Maria Aweziga Kaba,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 30,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 31,Monday,Paa Kwesi Ephraim,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 32,Monday,Benjamin Kofi Yankey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 33,Monday,Bernice Adime Mawuena,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 34,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 35,Monday,Broderick Nana Bentil,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 36,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 37,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 38,Monday,Carl Nyameakyere Crankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 39,Monday,Emmanuel Kabu,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 40,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 41,Monday,Veronica Abena Numekevor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 42,Monday,Titus Fiifi Appiah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 43,Monday,Prince Tetteh Ayiku,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 44,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 45,Monday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 46,Monday,Ernest Baffoe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 47,Monday,Essilfie Prince Mbeah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 48,Monday,Emmanuel Twum Osafo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 25,Tuesday,Adolf Menano,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 26,Tuesday,Alice Fremah Boakye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 27,Tuesday,Manasseh Aikins Sarfo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 28,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 29,Tuesday,Francine-Maria Aweziga Kaba,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 30,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 31,Tuesday,Paa Kwesi Ephraim,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 32,Tuesday,Benjamin Kofi Yankey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 33,Tuesday,Bernice Adime Mawuena,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 34,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 35,Tuesday,Broderick Nana Bentil,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 36,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 37,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 38,Tuesday,Carl Nyameakyere Crankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 39,Tuesday,Emmanuel Kabu,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 40,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 41,Tuesday,Veronica Abena Numekevor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 42,Tuesday,Titus Fiifi Appiah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 43,Tuesday,Prince Tetteh Ayiku,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 44,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 45,Tuesday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 46,Tuesday,Ernest Baffoe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 47,Tuesday,Essilfie Prince Mbeah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 48,Tuesday,Emmanuel Twum Osafo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 25,Wednesday,Adolf Menano,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 26,Wednesday,Alice Fremah Boakye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 27,Wednesday,Manasseh Aikins Sarfo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 28,Wednesday,Philip Odzor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 29,Wednesday,Francine-Maria Aweziga Kaba,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 30,Wednesday,Ebenezer Ansere,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 31,Wednesday,Paa Kwesi Ephraim,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 32,Wednesday,Benjamin Kofi Yankey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 33,Wednesday,Bernice Adime Mawuena,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 34,Wednesday,Richard Dadzie,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 35,Wednesday,Broderick Nana Bentil,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 36,Wednesday,Timothy Hobbs Kumah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 37,Wednesday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 38,Wednesday,Carl Nyameakyere Crankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 39,Wednesday,Emmanuel Kabu,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 40,Wednesday,Methuselah Nwodobeh,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 41,Wednesday,Veronica Abena Numekevor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 42,Wednesday,Titus Fiifi Appiah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 43,Wednesday,Prince Tetteh Ayiku,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 44,Wednesday,Doris Addai Gyebi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 45,Wednesday,Enoch Boison,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 46,Wednesday,Ernest Baffoe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 47,Wednesday,Essilfie Prince Mbeah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 48,Wednesday,Samuel Nana Baffour Asare,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 25,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 26,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 27,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 28,Thursday,Philip Odzor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 29,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 30,Thursday,Ebenezer Ansere,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 31,Thursday,Ayawavi Diane Adeline Missewou,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 32,Thursday,Benjamin Kofi Yankey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 33,Thursday,Bernice Adime Mawuena,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 34,Thursday,Richard Dadzie,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 35,Thursday,Broderick Nana Bentil,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 36,Thursday,Timothy Hobbs Kumah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 37,Thursday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 38,Thursday,Carl Nyameakyere Crankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 39,Thursday,Emmanuel Kabu,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 40,Thursday,Methuselah Nwodobeh,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 41,Thursday,Veronica Abena Numekevor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 42,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 43,Thursday,Prince Tetteh Ayiku,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 44,Thursday,Doris Addai Gyebi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 45,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 46,Thursday,Ernest Baffoe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 47,Thursday,Essilfie Prince Mbeah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 48,Thursday,Emmanuel Twum Osafo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 25,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 26,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 27,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 28,Friday,Philip Odzor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 29,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 30,Friday,Ebenezer Ansere,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 31,Friday,Ayawavi Diane Adeline Missewou,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 32,Friday,Benjamin Kofi Yankey,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 33,Friday,Bernice Adime Mawuena,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 34,Friday,Richard Dadzie,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 35,Friday,Broderick Nana Bentil,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 36,Friday,Timothy Hobbs Kumah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 37,Friday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 38,Friday,Carl Nyameakyere Crankson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 39,Friday,Emmanuel Kabu,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 40,Friday,Methuselah Nwodobeh,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 41,Friday,Veronica Abena Numekevor,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 42,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 43,Friday,Prince Tetteh Ayiku,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 44,Friday,Doris Addai Gyebi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 45,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 46,Friday,Ernest Baffoe,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 47,Friday,Essilfie Prince Mbeah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 48,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 49,Monday,Christabel Amorkor Quaye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 50,Monday,Ernest Owusu Darko,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 51,Monday,Nawas Hutchful,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 52,Monday,Sam Ackah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 53,Monday,Kenneth Atta Oppong,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 54,Monday,Ebenezer Ahurein,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 55,Monday,Ama Andowa Buabeng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 56,Monday,Asher Yram Tetteh-Abotsi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 57,Monday,Franz-James Wefagi Kaba,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 58,Monday,Christopher Owusu Ahenkorah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 59,Monday,Martha Boahene,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 60,Monday,Daniel Forson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 49,Tuesday,Christabel Amorkor Quaye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 50,Tuesday,Ernest Owusu Darko,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 51,Tuesday,Nawas Hutchful,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 52,Tuesday,Sam Ackah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 53,Tuesday,Kenneth Atta Oppong,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 54,Tuesday,Ebenezer Ahurein,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 55,Tuesday,Ama Andowa Buabeng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 56,Tuesday,Asher Yram Tetteh-Abotsi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 57,Tuesday,Franz-James Wefagi Kaba,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 58,Tuesday,Christopher Owusu Ahenkorah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 59,Tuesday,Martha Boahene,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 60,Tuesday,Daniel Forson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 49,Wednesday,Christabel Amorkor Quaye,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 50,Wednesday,Ebenezer Ahurein,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 51,Wednesday,Nawas Hutchful,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 52,Wednesday,Kenneth Atta Oppong,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 53,Wednesday,Emmanuel Adufo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 54,Wednesday,Kweku Gyimah-turkson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 55,Wednesday,Abigail Nyameyie Arko,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 56,Wednesday,Asher Yram Tetteh-Abotsi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 57,Wednesday,Franz-James Wefagi Kaba,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 58,Wednesday,Ayawavi Diane Adeline Missewou,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 59,Wednesday,Martha Boahene,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 60,Wednesday,Prince Twumasi Asamoah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 49,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 50,Thursday,Ernest Owusu Darko,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 51,Thursday,Daniel Forson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 52,Thursday,Sam Ackah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 53,Thursday,Emmanuel Adufo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 54,Thursday,Kweku Gyimah-turkson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 55,Thursday,Ama Andowa Buabeng,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 56,Thursday,Asher Yram Tetteh-Abotsi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 57,Thursday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 58,Thursday,Christopher Owusu Ahenkorah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 59,Thursday,Martha Boahene,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 60,Thursday,Prince Twumasi Asamoah,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 49,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 50,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 51,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 52,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 53,Friday,Emmanuel Adufo,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 54,Friday,Kweku Gyimah-turkson,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 55,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 56,Friday,Asher Yram Tetteh-Abotsi,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 57,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 58,Friday,,False,
+Takoradi Office,Floor 1,MAIN HALL,Seat 59,Friday,Martha Boahene,True,
+Takoradi Office,Floor 1,MAIN HALL,Seat 60,Friday,Prince Twumasi Asamoah,True,
+Takoradi Office,Floor 1,KNIT,Seat 1,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 2,Monday,Baffour Kofi Gyawu,True,
+Takoradi Office,Floor 1,KNIT,Seat 3,Monday,Jacob Sabbath Adiaba,True,
+Takoradi Office,Floor 1,KNIT,Seat 4,Monday,Eric Nana Kpabi,True,
+Takoradi Office,Floor 1,KNIT,Seat 5,Monday,Jude Edem Nyahe,True,
+Takoradi Office,Floor 1,KNIT,Seat 6,Monday,Christopher Kweku Asamoah Angoe,True,
+Takoradi Office,Floor 1,KNIT,Seat 7,Monday,Michael Acheampong,True,
+Takoradi Office,Floor 1,KNIT,Seat 8,Monday,Patrick Markin-Yankah,True,
+Takoradi Office,Floor 1,KNIT,Seat 9,Monday,Benjamin Eshun,True,
+Takoradi Office,Floor 1,KNIT,Seat 10,Monday,Isaac Ampomah,True,
+Takoradi Office,Floor 1,KNIT,Seat 11,Monday,Samuel Mawuli Azumah,True,
+Takoradi Office,Floor 1,KNIT,Seat 12,Monday,Shamsu Deen Ahmed,True,
+Takoradi Office,Floor 1,KNIT,Seat 1,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 2,Tuesday,Baffour Kofi Gyawu,True,
+Takoradi Office,Floor 1,KNIT,Seat 3,Tuesday,Jacob Sabbath Adiaba,True,
+Takoradi Office,Floor 1,KNIT,Seat 4,Tuesday,Eric Nana Kpabi,True,
+Takoradi Office,Floor 1,KNIT,Seat 5,Tuesday,Jude Edem Nyahe,True,
+Takoradi Office,Floor 1,KNIT,Seat 6,Tuesday,Christopher Kweku Asamoah Angoe,True,
+Takoradi Office,Floor 1,KNIT,Seat 7,Tuesday,Michael Acheampong,True,
+Takoradi Office,Floor 1,KNIT,Seat 8,Tuesday,Patrick Markin-Yankah,True,
+Takoradi Office,Floor 1,KNIT,Seat 9,Tuesday,Benjamin Eshun,True,
+Takoradi Office,Floor 1,KNIT,Seat 10,Tuesday,Isaac Ampomah,True,
+Takoradi Office,Floor 1,KNIT,Seat 11,Tuesday,Samuel Mawuli Azumah,True,
+Takoradi Office,Floor 1,KNIT,Seat 12,Tuesday,Shamsu Deen Ahmed,True,
+Takoradi Office,Floor 1,KNIT,Seat 1,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 2,Wednesday,John Tekpor Dzikunu,True,
+Takoradi Office,Floor 1,KNIT,Seat 3,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 4,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 5,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 6,Wednesday,Bentil Okyere Boadu,True,
+Takoradi Office,Floor 1,KNIT,Seat 7,Wednesday,Christopher Kweku Asamoah Angoe,True,
+Takoradi Office,Floor 1,KNIT,Seat 8,Wednesday,Patrick Markin-Yankah,True,
+Takoradi Office,Floor 1,KNIT,Seat 9,Wednesday,Bliss Armah-nwanwah,True,
+Takoradi Office,Floor 1,KNIT,Seat 10,Wednesday,Isaac Ampomah,True,
+Takoradi Office,Floor 1,KNIT,Seat 11,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 12,Wednesday,Shamsu Deen Ahmed,True,
+Takoradi Office,Floor 1,KNIT,Seat 1,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 2,Thursday,Baffour Kofi Gyawu,True,
+Takoradi Office,Floor 1,KNIT,Seat 3,Thursday,Jacob Sabbath Adiaba,True,
+Takoradi Office,Floor 1,KNIT,Seat 4,Thursday,Eric Nana Kpabi,True,
+Takoradi Office,Floor 1,KNIT,Seat 5,Thursday,Jude Edem Nyahe,True,
+Takoradi Office,Floor 1,KNIT,Seat 6,Thursday,Bentil Okyere Boadu,True,
+Takoradi Office,Floor 1,KNIT,Seat 7,Thursday,Michael Acheampong,True,
+Takoradi Office,Floor 1,KNIT,Seat 8,Thursday,Patrick Markin-Yankah,True,
+Takoradi Office,Floor 1,KNIT,Seat 9,Thursday,Benjamin Eshun,True,
+Takoradi Office,Floor 1,KNIT,Seat 10,Thursday,Isaac Ampomah,True,
+Takoradi Office,Floor 1,KNIT,Seat 11,Thursday,Samuel Mawuli Azumah,True,
+Takoradi Office,Floor 1,KNIT,Seat 12,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 1,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 2,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 3,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 4,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 5,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 6,Friday,Bentil Okyere Boadu,True,
+Takoradi Office,Floor 1,KNIT,Seat 7,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 8,Friday,Patrick Markin-Yankah,True,
+Takoradi Office,Floor 1,KNIT,Seat 9,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 10,Friday,Isaac Ampomah,True,
+Takoradi Office,Floor 1,KNIT,Seat 11,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 12,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 13,Monday,Moses Basing,True,
+Takoradi Office,Floor 1,KNIT,Seat 14,Monday,Justice Nana Ellis,True,
+Takoradi Office,Floor 1,KNIT,Seat 15,Monday,Andy Yedonu Annobil,True,
+Takoradi Office,Floor 1,KNIT,Seat 16,Monday,Maxwell Elorm Ahiable,True,
+Takoradi Office,Floor 1,KNIT,Seat 17,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 18,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 19,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 20,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 21,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 22,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 23,Monday,Bismark Kwadwo Gyau,True,
+Takoradi Office,Floor 1,KNIT,Seat 24,Monday,Yussif Tahiru,True,
+Takoradi Office,Floor 1,KNIT,Seat 25,Monday,Hussein Amadu,True,
+Takoradi Office,Floor 1,KNIT,Seat 26,Monday,Sarah Kyereboah Owusu,True,
+Takoradi Office,Floor 1,KNIT,Seat 27,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 28,Monday,Justice Uzoma Ajah,True,
+Takoradi Office,Floor 1,KNIT,Seat 13,Tuesday,Moses Basing,True,
+Takoradi Office,Floor 1,KNIT,Seat 14,Tuesday,Justice Nana Ellis,True,
+Takoradi Office,Floor 1,KNIT,Seat 15,Tuesday,Andy Yedonu Annobil,True,
+Takoradi Office,Floor 1,KNIT,Seat 16,Tuesday,Maxwell Elorm Ahiable,True,
+Takoradi Office,Floor 1,KNIT,Seat 17,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 18,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 19,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 20,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 21,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 22,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 23,Tuesday,Bismark Kwadwo Gyau,True,
+Takoradi Office,Floor 1,KNIT,Seat 24,Tuesday,Yussif Tahiru,True,
+Takoradi Office,Floor 1,KNIT,Seat 25,Tuesday,Hussein Amadu,True,
+Takoradi Office,Floor 1,KNIT,Seat 26,Tuesday,Sarah Kyereboah Owusu,True,
+Takoradi Office,Floor 1,KNIT,Seat 27,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 28,Tuesday,Justice Uzoma Ajah,True,
+Takoradi Office,Floor 1,KNIT,Seat 13,Wednesday,Moses Basing,True,
+Takoradi Office,Floor 1,KNIT,Seat 14,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 15,Wednesday,Andy Yedonu Annobil,True,
+Takoradi Office,Floor 1,KNIT,Seat 16,Wednesday,Maxwell Elorm Ahiable,True,
+Takoradi Office,Floor 1,KNIT,Seat 17,Wednesday,Ebenezer Quayson,True,
+Takoradi Office,Floor 1,KNIT,Seat 18,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 19,Wednesday,Bernard Essilfie,True,
+Takoradi Office,Floor 1,KNIT,Seat 20,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 21,Wednesday,Edem Sablah Stephens,True,
+Takoradi Office,Floor 1,KNIT,Seat 22,Wednesday,Heskey Amoako Fordjour,True,
+Takoradi Office,Floor 1,KNIT,Seat 23,Wednesday,Bismark Kwadwo Gyau,True,
+Takoradi Office,Floor 1,KNIT,Seat 24,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 25,Wednesday,Bismark Kwadwo Gyau,True,
+Takoradi Office,Floor 1,KNIT,Seat 26,Wednesday,Sarah Kyereboah Owusu,True,
+Takoradi Office,Floor 1,KNIT,Seat 27,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 28,Wednesday,Justice Uzoma Ajah,True,
+Takoradi Office,Floor 1,KNIT,Seat 13,Thursday,John Tekpor Dzikunu,True,
+Takoradi Office,Floor 1,KNIT,Seat 14,Thursday,Justice Nana Ellis,True,
+Takoradi Office,Floor 1,KNIT,Seat 15,Thursday,Andy Yedonu Annobil,True,
+Takoradi Office,Floor 1,KNIT,Seat 16,Thursday,Maxwell Elorm Ahiable,True,
+Takoradi Office,Floor 1,KNIT,Seat 17,Thursday,Ebenezer Quayson,True,
+Takoradi Office,Floor 1,KNIT,Seat 18,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 19,Thursday,Bernard Essilfie,True,
+Takoradi Office,Floor 1,KNIT,Seat 20,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 21,Thursday,Edem Sablah Stephens,True,
+Takoradi Office,Floor 1,KNIT,Seat 22,Thursday,Heskey Amoako Fordjour,True,
+Takoradi Office,Floor 1,KNIT,Seat 23,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 24,Thursday,Yussif Tahiru,True,
+Takoradi Office,Floor 1,KNIT,Seat 25,Thursday,Bismark Kwadwo Gyau,True,
+Takoradi Office,Floor 1,KNIT,Seat 26,Thursday,Hussein Amadu,True,
+Takoradi Office,Floor 1,KNIT,Seat 27,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 28,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 13,Friday,John Tekpor Dzikunu,True,
+Takoradi Office,Floor 1,KNIT,Seat 14,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 15,Friday,Andy Yedonu Annobil,True,
+Takoradi Office,Floor 1,KNIT,Seat 16,Friday,Maxwell Elorm Ahiable,True,
+Takoradi Office,Floor 1,KNIT,Seat 17,Friday,Ebenezer Quayson,True,
+Takoradi Office,Floor 1,KNIT,Seat 18,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 19,Friday,Bernard Essilfie,True,
+Takoradi Office,Floor 1,KNIT,Seat 20,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 21,Friday,Edem Sablah Stephens,True,
+Takoradi Office,Floor 1,KNIT,Seat 22,Friday,Heskey Amoako Fordjour,True,
+Takoradi Office,Floor 1,KNIT,Seat 23,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 24,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 25,Friday,Bismark Kwadwo Gyau,True,
+Takoradi Office,Floor 1,KNIT,Seat 26,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 27,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 28,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 29,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 30,Monday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,KNIT,Seat 31,Monday,Raphael Kyere Adonteng,True,
+Takoradi Office,Floor 1,KNIT,Seat 32,Monday,Faisal Issaka,True,
+Takoradi Office,Floor 1,KNIT,Seat 33,Monday,Bliss Armah-nwanwah,True,
+Takoradi Office,Floor 1,KNIT,Seat 34,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 35,Monday,Pius Prince Oduro,True,
+Takoradi Office,Floor 1,KNIT,Seat 36,Monday,Solomon Asiedu,True,
+Takoradi Office,Floor 1,KNIT,Seat 37,Monday,Bernard Teye,True,
+Takoradi Office,Floor 1,KNIT,Seat 38,Monday,Augustine Smith,True,
+Takoradi Office,Floor 1,KNIT,Seat 39,Monday,Benjamin Arthur,True,
+Takoradi Office,Floor 1,KNIT,Seat 40,Monday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 29,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 30,Tuesday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,KNIT,Seat 31,Tuesday,Raphael Kyere Adonteng,True,
+Takoradi Office,Floor 1,KNIT,Seat 32,Tuesday,Faisal Issaka,True,
+Takoradi Office,Floor 1,KNIT,Seat 33,Tuesday,Bliss Armah-nwanwah,True,
+Takoradi Office,Floor 1,KNIT,Seat 34,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 35,Tuesday,Pius Prince Oduro,True,
+Takoradi Office,Floor 1,KNIT,Seat 36,Tuesday,Solomon Asiedu,True,
+Takoradi Office,Floor 1,KNIT,Seat 37,Tuesday,Bernard Teye,True,
+Takoradi Office,Floor 1,KNIT,Seat 38,Tuesday,Augustine Smith,True,
+Takoradi Office,Floor 1,KNIT,Seat 39,Tuesday,Benjamin Arthur,True,
+Takoradi Office,Floor 1,KNIT,Seat 40,Tuesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 29,Wednesday,Ernest Brayce,True,
+Takoradi Office,Floor 1,KNIT,Seat 30,Wednesday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,KNIT,Seat 31,Wednesday,Raphael Kyere Adonteng,True,
+Takoradi Office,Floor 1,KNIT,Seat 32,Wednesday,Joel Kobby Bamfo,True,
+Takoradi Office,Floor 1,KNIT,Seat 33,Wednesday,Vincent Andoh Sarsah,True,
+Takoradi Office,Floor 1,KNIT,Seat 34,Wednesday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 35,Wednesday,Charles Damascus Togah,True,
+Takoradi Office,Floor 1,KNIT,Seat 36,Wednesday,Solomon Asiedu,True,
+Takoradi Office,Floor 1,KNIT,Seat 37,Wednesday,Bernard Teye,True,
+Takoradi Office,Floor 1,KNIT,Seat 38,Wednesday,Augustine Smith,True,
+Takoradi Office,Floor 1,KNIT,Seat 39,Wednesday,Benjamin Arthur,True,
+Takoradi Office,Floor 1,KNIT,Seat 40,Wednesday,Abaidoo Prince,True,
+Takoradi Office,Floor 1,KNIT,Seat 29,Thursday,Ernest Brayce,True,
+Takoradi Office,Floor 1,KNIT,Seat 30,Thursday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,KNIT,Seat 31,Thursday,Joel Kobby Bamfo,True,
+Takoradi Office,Floor 1,KNIT,Seat 32,Thursday,Faisal Issaka,True,
+Takoradi Office,Floor 1,KNIT,Seat 33,Thursday,Vincent Andoh Sarsah,True,
+Takoradi Office,Floor 1,KNIT,Seat 34,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 35,Thursday,Charles Damascus Togah,True,
+Takoradi Office,Floor 1,KNIT,Seat 36,Thursday,Pius Prince Oduro,True,
+Takoradi Office,Floor 1,KNIT,Seat 37,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 38,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 39,Thursday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 40,Thursday,Abaidoo Prince,True,
+Takoradi Office,Floor 1,KNIT,Seat 29,Friday,Ernest Brayce,True,
+Takoradi Office,Floor 1,KNIT,Seat 30,Friday,Clifford Agyabeng Kwakye,True,
+Takoradi Office,Floor 1,KNIT,Seat 31,Friday,Joel Kobby Bamfo,True,
+Takoradi Office,Floor 1,KNIT,Seat 32,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 33,Friday,Vincent Andoh Sarsah,True,
+Takoradi Office,Floor 1,KNIT,Seat 34,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 35,Friday,Charles Damascus Togah,True,
+Takoradi Office,Floor 1,KNIT,Seat 36,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 37,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 38,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 39,Friday,,False,
+Takoradi Office,Floor 1,KNIT,Seat 40,Friday,Abaidoo Prince,True,
+Takoradi Office,Floor 1,MAINZ,Seat 1,Monday,Francis Roland Bissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 2,Monday,Illiasu Abubakar,True,
+Takoradi Office,Floor 1,MAINZ,Seat 3,Monday,Joel Kojo Fofoh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 4,Monday,Lawson Buabassah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 5,Monday,Lydia Amissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 6,Monday,Melchizedek Tetteh Narh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 7,Monday,Jerome Awonniseba Akumasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 8,Monday,Samuel Ohene Larbi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 1,Tuesday,Francis Roland Bissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 2,Tuesday,Illiasu Abubakar,True,
+Takoradi Office,Floor 1,MAINZ,Seat 3,Tuesday,Joel Kojo Fofoh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 4,Tuesday,Lawson Buabassah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 5,Tuesday,Lydia Amissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 6,Tuesday,Melchizedek Tetteh Narh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 7,Tuesday,Jerome Awonniseba Akumasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 8,Tuesday,Samuel Ohene Larbi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 1,Wednesday,Francis Roland Bissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 2,Wednesday,Illiasu Abubakar,True,
+Takoradi Office,Floor 1,MAINZ,Seat 3,Wednesday,Joel Kojo Fofoh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 4,Wednesday,Lawson Buabassah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 5,Wednesday,Lydia Amissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 6,Wednesday,Melchizedek Tetteh Narh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 7,Wednesday,Jerome Awonniseba Akumasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 8,Wednesday,Samuel Ohene Larbi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 1,Thursday,Francis Roland Bissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 2,Thursday,Illiasu Abubakar,True,
+Takoradi Office,Floor 1,MAINZ,Seat 3,Thursday,Joel Kojo Fofoh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 4,Thursday,Lawson Buabassah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 5,Thursday,Lydia Amissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 6,Thursday,Melchizedek Tetteh Narh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 7,Thursday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 8,Thursday,Bernard Essilfie,True,
+Takoradi Office,Floor 1,MAINZ,Seat 1,Friday,Francis Roland Bissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 2,Friday,Illiasu Abubakar,True,
+Takoradi Office,Floor 1,MAINZ,Seat 3,Friday,Joel Kojo Fofoh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 4,Friday,Lawson Buabassah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 5,Friday,Lydia Amissah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 6,Friday,Melchizedek Tetteh Narh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 7,Friday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 8,Friday,Bernard Essilfie,True,
+Takoradi Office,Floor 1,MAINZ,Seat 9,Monday,Robert Sam,True,
+Takoradi Office,Floor 1,MAINZ,Seat 10,Monday,Ama Gyaa Brobbey,True,
+Takoradi Office,Floor 1,MAINZ,Seat 11,Monday,Mubarak Tijani,True,
+Takoradi Office,Floor 1,MAINZ,Seat 12,Monday,Emmanuel Kwabena Ansu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 13,Monday,Samuel Atsyatsya,True,
+Takoradi Office,Floor 1,MAINZ,Seat 14,Monday,Theophilus Quaicoe,True,
+Takoradi Office,Floor 1,MAINZ,Seat 15,Monday,Elliot Adinortey Agbettor,True,
+Takoradi Office,Floor 1,MAINZ,Seat 16,Monday,Michael Kwadwo Nyarko Affanyi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 9,Tuesday,Robert Sam,True,
+Takoradi Office,Floor 1,MAINZ,Seat 10,Tuesday,Ama Gyaa Brobbey,True,
+Takoradi Office,Floor 1,MAINZ,Seat 11,Tuesday,Mubarak Tijani,True,
+Takoradi Office,Floor 1,MAINZ,Seat 12,Tuesday,Emmanuel Kwabena Ansu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 13,Tuesday,Samuel Atsyatsya,True,
+Takoradi Office,Floor 1,MAINZ,Seat 14,Tuesday,Theophilus Quaicoe,True,
+Takoradi Office,Floor 1,MAINZ,Seat 15,Tuesday,Elliot Adinortey Agbettor,True,
+Takoradi Office,Floor 1,MAINZ,Seat 16,Tuesday,Michael Kwadwo Nyarko Affanyi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 9,Wednesday,Abdul-Rashid Issah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 10,Wednesday,Ama Gyaa Brobbey,True,
+Takoradi Office,Floor 1,MAINZ,Seat 11,Wednesday,Mubarak Tijani,True,
+Takoradi Office,Floor 1,MAINZ,Seat 12,Wednesday,Emmanuel Kwabena Ansu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 13,Wednesday,Samuel Atsyatsya,True,
+Takoradi Office,Floor 1,MAINZ,Seat 14,Wednesday,Theophilus Quaicoe,True,
+Takoradi Office,Floor 1,MAINZ,Seat 15,Wednesday,Michael Idun Hagan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 16,Wednesday,Bernard Essilfie,True,
+Takoradi Office,Floor 1,MAINZ,Seat 9,Thursday,Robert Sam,True,
+Takoradi Office,Floor 1,MAINZ,Seat 10,Thursday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 11,Thursday,Mubarak Tijani,True,
+Takoradi Office,Floor 1,MAINZ,Seat 12,Thursday,Emmanuel Kwabena Ansu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 13,Thursday,Samuel Atsyatsya,True,
+Takoradi Office,Floor 1,MAINZ,Seat 14,Thursday,Theophilus Quaicoe,True,
+Takoradi Office,Floor 1,MAINZ,Seat 15,Thursday,Elliot Adinortey Agbettor,True,
+Takoradi Office,Floor 1,MAINZ,Seat 16,Thursday,Michael Kwadwo Nyarko Affanyi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 9,Friday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 10,Friday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 11,Friday,Mubarak Tijani,True,
+Takoradi Office,Floor 1,MAINZ,Seat 12,Friday,Emmanuel Kwabena Ansu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 13,Friday,Samuel Atsyatsya,True,
+Takoradi Office,Floor 1,MAINZ,Seat 14,Friday,Theophilus Quaicoe,True,
+Takoradi Office,Floor 1,MAINZ,Seat 15,Friday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 16,Friday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 17,Monday,Israel Kwawu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 18,Monday,Michael Nana Kwame Akuetteh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 19,Monday,Prince Dean Agbodjan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 20,Monday,Anthony Bekoe Bankah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 21,Monday,Joel Paa-Kow Amuasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 22,Monday,Agyenim Boateng Obeng,True,
+Takoradi Office,Floor 1,MAINZ,Seat 23,Monday,Charles Fuakye-Akyempim,True,
+Takoradi Office,Floor 1,MAINZ,Seat 24,Monday,Abdul Manaf Sulley,True,
+Takoradi Office,Floor 1,MAINZ,Seat 17,Tuesday,Israel Kwawu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 18,Tuesday,Michael Nana Kwame Akuetteh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 19,Tuesday,Prince Dean Agbodjan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 20,Tuesday,Anthony Bekoe Bankah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 21,Tuesday,Joel Paa-Kow Amuasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 22,Tuesday,Agyenim Boateng Obeng,True,
+Takoradi Office,Floor 1,MAINZ,Seat 23,Tuesday,Charles Fuakye-Akyempim,True,
+Takoradi Office,Floor 1,MAINZ,Seat 24,Tuesday,Abdul Manaf Sulley,True,
+Takoradi Office,Floor 1,MAINZ,Seat 17,Wednesday,Israel Kwawu,True,
+Takoradi Office,Floor 1,MAINZ,Seat 18,Wednesday,Michael Nana Kwame Akuetteh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 19,Wednesday,Prince Dean Agbodjan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 20,Wednesday,Anthony Bekoe Bankah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 21,Wednesday,Joel Paa-Kow Amuasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 22,Wednesday,Agyenim Boateng Obeng,True,
+Takoradi Office,Floor 1,MAINZ,Seat 23,Wednesday,Felix Osei Danso,True,
+Takoradi Office,Floor 1,MAINZ,Seat 24,Wednesday,Abdul Manaf Sulley,True,
+Takoradi Office,Floor 1,MAINZ,Seat 17,Thursday,Abdul-Rashid Issah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 18,Thursday,Michael Nana Kwame Akuetteh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 19,Thursday,Prince Dean Agbodjan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 20,Thursday,Anthony Bekoe Bankah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 21,Thursday,Joel Paa-Kow Amuasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 22,Thursday,Michael Idun Hagan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 23,Thursday,Charles Fuakye-Akyempim,True,
+Takoradi Office,Floor 1,MAINZ,Seat 24,Thursday,Felix Osei Danso,True,
+Takoradi Office,Floor 1,MAINZ,Seat 17,Friday,Abdul-Rashid Issah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 18,Friday,Michael Nana Kwame Akuetteh,True,
+Takoradi Office,Floor 1,MAINZ,Seat 19,Friday,Prince Dean Agbodjan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 20,Friday,Anthony Bekoe Bankah,True,
+Takoradi Office,Floor 1,MAINZ,Seat 21,Friday,Joel Paa-Kow Amuasi,True,
+Takoradi Office,Floor 1,MAINZ,Seat 22,Friday,Michael Idun Hagan,True,
+Takoradi Office,Floor 1,MAINZ,Seat 23,Friday,,False,
+Takoradi Office,Floor 1,MAINZ,Seat 24,Friday,Felix Osei Danso,True,
+Takoradi Office,Floor 1,DORTMUND,Seat 1,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 2,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 3,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 4,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 5,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 6,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 7,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 8,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 9,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 10,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 11,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 12,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 13,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 14,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 15,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 16,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 1,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 2,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 3,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 4,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 5,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 6,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 7,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 8,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 9,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 10,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 11,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 12,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 13,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 14,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 15,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 16,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 1,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 2,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 3,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 4,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 5,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 6,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 7,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 8,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 9,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 10,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 11,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 12,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 13,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 14,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 15,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 16,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 1,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 2,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 3,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 4,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 5,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 6,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 7,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 8,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 9,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 10,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 11,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 12,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 13,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 14,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 15,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 16,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 1,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 2,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 3,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 4,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 5,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 6,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 7,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 8,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 9,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 10,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 11,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 12,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 13,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 14,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 15,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 16,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 17,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 18,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 19,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 20,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 21,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 22,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 23,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 24,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 25,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 26,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 27,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 28,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 29,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 30,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 31,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 32,Monday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 17,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 18,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 19,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 20,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 21,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 22,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 23,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 24,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 25,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 26,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 27,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 28,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 29,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 30,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 31,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 32,Tuesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 17,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 18,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 19,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 20,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 21,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 22,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 23,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 24,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 25,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 26,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 27,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 28,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 29,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 30,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 31,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 32,Wednesday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 17,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 18,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 19,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 20,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 21,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 22,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 23,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 24,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 25,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 26,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 27,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 28,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 29,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 30,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 31,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 32,Thursday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 17,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 18,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 19,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 20,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 21,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 22,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 23,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 24,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 25,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 26,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 27,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 28,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 29,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 30,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 31,Friday,,False,
+Takoradi Office,Floor 1,DORTMUND,Seat 32,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 1,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 2,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 3,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 4,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 5,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 6,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 7,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 8,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 9,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 10,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 11,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 12,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 1,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 2,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 3,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 4,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 5,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 6,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 7,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 8,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 9,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 10,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 11,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 12,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 1,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 2,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 3,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 4,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 5,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 6,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 7,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 8,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 9,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 10,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 11,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 12,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 1,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 2,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 3,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 4,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 5,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 6,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 7,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 8,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 9,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 10,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 11,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 12,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 1,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 2,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 3,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 4,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 5,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 6,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 7,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 8,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 9,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 10,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 11,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 12,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 13,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 14,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 15,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 16,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 17,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 18,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 19,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 20,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 21,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 22,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 23,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 24,Monday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 13,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 14,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 15,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 16,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 17,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 18,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 19,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 20,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 21,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 22,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 23,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 24,Tuesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 13,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 14,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 15,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 16,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 17,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 18,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 19,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 20,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 21,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 22,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 23,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 24,Wednesday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 13,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 14,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 15,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 16,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 17,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 18,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 19,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 20,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 21,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 22,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 23,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 24,Thursday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 13,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 14,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 15,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 16,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 17,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 18,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 19,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 20,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 21,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 22,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 23,Friday,,False,
+Takoradi Office,Floor 1,STUTTGART,Seat 24,Friday,,False,
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 1 / Reception,Monday,Alexander Anthony Eshun,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 2,Monday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 3,Monday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 4,Monday,Stephen Seirh,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 1 / Reception,Tuesday,Gloria Zoglie,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 2,Tuesday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 3,Tuesday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 4,Tuesday,Stephen Seirh,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 1 / Reception,Wednesday,Gloria Zoglie,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 2,Wednesday,Daniel Frimpong,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 3,Wednesday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 4,Wednesday,Stephen Seirh,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 1 / Reception,Thursday,Gloria Zoglie,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 2,Thursday,Daniel Frimpong,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 3,Thursday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 4,Thursday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 1 / Reception,Friday,Alexander Anthony Eshun,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 2,Friday,Daniel Frimpong,True,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 3,Friday,,False,False
+Accra Office,Floor 0,BLOCK A FLOOR 0,Seat 4,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 1,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 2,Monday,Jeffery Afutu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 3,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 4,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 5,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 6,Monday,Phinehas Anteh,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 7,Monday,Bright Gawu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 8,Monday,Danita Lamptey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 9,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 10,Monday,Joseph Abuanor,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 11,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 12,Monday,Bernard Mawulorm Kofi Wodoame,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 13,Monday,Richard Elinam Nutsugah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 14,Monday,Charles Kobina Ofosu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 15,Monday,Gertrude Yeboah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 16,Monday,Kwamena Amo- Dadey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 17,Monday,Pekyi Fred,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 18,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 19,Monday,Alberto Sticher,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 20,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 21,Monday,Jason Acquah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 26,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 23,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 24,Monday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 25,Monday,Stephen  Takyi,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 1,Tuesday,Anthony Osei,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 2,Tuesday,Jeffery Afutu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 3,Tuesday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 4,Tuesday,Prince Daveis,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 5,Tuesday,Emmanuel Gligbe,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 6,Tuesday,Phinehas Anteh,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 7,Tuesday,Bright Gawu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 8,Tuesday,Danita Lamptey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 9,Tuesday,Kwame Ofori-Gyau,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 10,Tuesday,Joseph Abuanor,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 11,Tuesday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 12,Tuesday,Bernard Mawulorm Kofi Wodoame,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 13,Tuesday,Richard Elinam Nutsugah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 14,Tuesday,Charles Kobina Ofosu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 15,Tuesday,Maxwell Adomako,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 16,Tuesday,Kwamena Amo- Dadey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 17,Tuesday,Pekyi Fred,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 18,Tuesday,Daniella Amoako-Kankam,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 19,Tuesday,Alberto Sticher,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 20,Tuesday,Joseph Akayesi,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 21,Tuesday,Jason Acquah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 26,Tuesday,Alexander Anthony Eshun,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 23,Tuesday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 24,Tuesday,Brenda Gota,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 25,Tuesday,Stephen  Takyi,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 1,Wednesday,Anthony Osei,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 2,Wednesday,Jeffery Afutu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 3,Wednesday,Francis Owusu Bota,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 4,Wednesday,Prince Daveis,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 5,Wednesday,Emmanuel Gligbe,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 6,Wednesday,Phinehas Anteh,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 7,Wednesday,Bright Gawu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 8,Wednesday,Danita Lamptey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 9,Wednesday,Kwame Ofori-Gyau,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 10,Wednesday,Charles Kobina Ofosu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 11,Wednesday,Patrick Ayornu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 12,Wednesday,Bernard Mawulorm Kofi Wodoame,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 13,Wednesday,Richard Elinam Nutsugah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 14,Wednesday,Andrews Attakorah Amaniampong,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 15,Wednesday,Maxwell Adomako,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 16,Wednesday,Kwamena Amo- Dadey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 17,Wednesday,Pekyi Fred,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 18,Wednesday,Daniella Amoako-Kankam,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 19,Wednesday,Alberto Sticher,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 20,Wednesday,Joseph Akayesi,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 21,Wednesday,Jason Acquah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 26,Wednesday,Alexander Anthony Eshun,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 23,Wednesday,Gertrude Yeboah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 24,Wednesday,Brenda Gota,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 25,Wednesday,Stephen  Takyi,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 1,Thursday,Anthony Osei,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 2,Thursday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 3,Thursday,Francis Owusu Bota,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 4,Thursday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 5,Thursday,Emmanuel Gligbe,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 6,Thursday,Emmanuel Omari,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 7,Thursday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 8,Thursday,Danita Lamptey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 9,Thursday,Kwame Ofori-Gyau,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 10,Thursday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 11,Thursday,Patrick Ayornu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 12,Thursday,Bernard Mawulorm Kofi Wodoame,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 13,Thursday,Richard Elinam Nutsugah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 14,Thursday,Andrews Attakorah Amaniampong,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 15,Thursday,Maxwell Adomako,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 16,Thursday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 17,Thursday,Pekyi Fred,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 18,Thursday,Daniella Amoako-Kankam,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 19,Thursday,Alberto Sticher,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 20,Thursday,Joseph Akayesi,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 21,Thursday,Jason Acquah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 26,Thursday,Alexander Anthony Eshun,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 23,Thursday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 24,Thursday,Brenda Gota,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 25,Thursday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 1,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 2,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 3,Friday,Francis Owusu Bota,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 4,Friday,Prince Daveis,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 5,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 6,Friday,Emmanuel Omari,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 7,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 8,Friday,Danita Lamptey,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 9,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 10,Friday,Joseph Abuanor,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 11,Friday,Patrick Ayornu,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 12,Friday,Bernard Mawulorm Kofi Wodoame,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 13,Friday,Richard Elinam Nutsugah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 14,Friday,Andrews Attakorah Amaniampong,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 15,Friday,Gertrude Yeboah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 16,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 17,Friday,Pekyi Fred,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 18,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 19,Friday,Alberto Sticher,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 20,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 21,Friday,Jason Acquah,True,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 26,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 23,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 24,Friday,,False,False
+Accra Office,Floor 1,BLOCK A FLOOR 1,Seat 25,Friday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 1,Monday,Hubert Agbenyegah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 2,Monday,Solomon Aboagye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 3,Monday,Frank Aboagye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 4,Monday,Kwadjo Wusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 5,Monday,Dey Alfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 6,Monday,Patrick Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 7,Monday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 8,Monday,Nana Yaw Adjei Darko,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 9,Monday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 10,Monday,Victor Bruce-Crabbe,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 11,Monday,Huvison Collins Yaw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 12,Monday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 13,Monday,Doe Agudey Daniel,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 14,Monday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 15,Monday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 16,Monday,Phinehas Sersah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 17,Monday,Jeffery Mintah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 18,Monday,Jedidiah Eyiah-King,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 19,Monday,Michael Affanyi,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 20,Monday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 21,Monday,Eugenia Dede Teye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 22,Monday,Emmanuel Oppong Junior,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 23,Monday,Andrew Koomson,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 24,Monday,Ewurabena Amoa-Bosompem,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 25,Monday,Jojo Akwaah Abbiw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 26,Monday,Matthew/Harrison Amoah Godfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 1,Tuesday,Hubert Agbenyegah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 2,Tuesday,Papa Kofi Asante,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 3,Tuesday,Frank Aboagye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 4,Tuesday,Kwadjo Wusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 5,Tuesday,Dey Alfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 6,Tuesday,Patrick Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 7,Tuesday,Joseph Tugah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 8,Tuesday,Oduro Philip,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 9,Tuesday,Edward Akorlie,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 10,Tuesday,Victor Bruce-Crabbe,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 11,Tuesday,Huvison Collins Yaw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 12,Tuesday,Michael Johnson,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 13,Tuesday,Doe Agudey Daniel,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 14,Tuesday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 15,Tuesday,Akwasi Kusi-Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 16,Tuesday,Phinehas Sersah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 17,Tuesday,Jeffery Mintah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 18,Tuesday,Jedidiah Eyiah-King,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 19,Tuesday,Michael Affanyi,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 20,Tuesday,Zerebel Tanu,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 21,Tuesday,Abigail Woolley,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 22,Tuesday,Emmanuel Odoi Odotei,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 23,Tuesday,Andrew Koomson,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 24,Tuesday,Ewurabena Amoa-Bosompem,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 25,Tuesday,Jojo Akwaah Abbiw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 26,Tuesday,Matthew/Harrison Amoah Godfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 1,Wednesday,Hubert Agbenyegah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 2,Wednesday,George Junior Boadu,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 3,Wednesday,Zerebel Tanu,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 4,Wednesday,Kwadjo Wusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 5,Wednesday,Dey Alfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 6,Wednesday,Patrick Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 7,Wednesday,Phinehas Sersah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 8,Wednesday,Nana Yaw Adjei Darko,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 9,Wednesday,Edward Akorlie,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 10,Wednesday,Victor Bruce-Crabbe,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 11,Wednesday,Huvison Collins Yaw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 12,Wednesday,Michael Johnson,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 13,Wednesday,Doe Agudey Daniel,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 14,Wednesday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 15,Wednesday,Akwasi Kusi-Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 16,Wednesday,Mawuli Badassou,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 17,Wednesday,Jeffery Mintah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 18,Wednesday,Jedidiah Eyiah-King,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 19,Wednesday,Andrew Koomson,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 20,Wednesday,Emmanuel Kpendo,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 21,Wednesday,Abigail Woolley,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 22,Wednesday,Emmanuel Odoi Odotei,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 23,Wednesday,Emmanuel Larbi,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 24,Wednesday,Ewurabena Amoa-Bosompem,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 25,Wednesday,Jojo Akwaah Abbiw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 26,Wednesday,Matthew/Harrison Amoah Godfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 1,Thursday,Solomon Aboagye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 2,Thursday,Papa Kofi Asante,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 3,Thursday,Zerebel Tanu,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 4,Thursday,Kwadjo Wusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 5,Thursday,Dey Alfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 6,Thursday,Patrick Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 7,Thursday,Joseph Tugah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 8,Thursday,Oduro Philip,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 9,Thursday,Edward Akorlie,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 10,Thursday,Victor Bruce-Crabbe,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 11,Thursday,Huvison Collins Yaw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 12,Thursday,Michael Johnson,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 13,Thursday,Doe Agudey Daniel,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 14,Thursday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 15,Thursday,Emmanuel Oppong Junior,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 16,Thursday,Mawuli Badassou,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 17,Thursday,Jeffery Mintah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 18,Thursday,Precious Jahlom Agboado,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 19,Thursday,Michael Affanyi,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 20,Thursday,Emmanuel Kpendo,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 21,Thursday,Eugenia Dede Teye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 22,Thursday,Emmanuel Odoi Odotei,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 23,Thursday,Emmanuel Larbi,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 24,Thursday,George Junior Boadu,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 25,Thursday,Lloyd Theohilus Osabutey-Anikon,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 26,Thursday,Matthew/Harrison Amoah Godfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 1,Friday,Solomon Aboagye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 2,Friday,Papa Kofi Asante,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 3,Friday,Frank Aboagye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 4,Friday,Kwadjo Wusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 5,Friday,Dey Alfred,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 6,Friday,Patrick Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 7,Friday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 8,Friday,Nana Yaw Adjei Darko,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 9,Friday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 10,Friday,Victor Bruce-Crabbe,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 11,Friday,Huvison Collins Yaw,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 12,Friday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 13,Friday,Doe Agudey Daniel,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 14,Friday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 15,Friday,Akwasi Kusi-Appiah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 16,Friday,Mawuli Badassou,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 17,Friday,Jeffery Mintah,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 18,Friday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 19,Friday,,False,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 20,Friday,Emmanuel Kpendo,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 21,Friday,Eugenia Dede Teye,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 22,Friday,Emmanuel Oppong Junior,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 23,Friday,Emmanuel Larbi,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 24,Friday,George Junior Boadu,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 25,Friday,Lloyd Theohilus Osabutey-Anikon,True,False
+Accra Office,Floor 2,BLOCK A FLOOR 2,Seat 26,Friday,Matthew/Harrison Amoah Godfred,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 1,Monday,Maxwell Odoom,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 2,Monday,Rafiatu Ibrahim,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 3,Monday,Winfred Mawuli Agbotey,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 4,Monday,Robert Hlover (May),True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 5,Monday,Mildred Nwinkom Naab,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 6,Monday,Elvis Edzordzinam Dagadu,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 7,Monday,Abdul Rauf Mustapha,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 8,Monday,Clement Adjei Nyanku,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 9,Monday,Bakah Samuel Bright,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 10,Monday,Ishaque Appiah,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 11,Monday,Henry Nana Antwi,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 12,Monday,Fiifi Akyer Yawson,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 13,Monday,Moses Gaveh,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 14,Monday,Emily Quarshie,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 15,Monday,Swithin Annor Okyere,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 1,Tuesday,,False,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 2,Tuesday,,False,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 3,Tuesday,Winfred Mawuli Agbotey,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 4,Tuesday,Robert Hlover,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 5,Tuesday,Mildred Nwinkom Naab,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 6,Tuesday,Elvis Edzordzinam Dagadu,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 7,Tuesday,Abdul Rauf Mustapha,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 8,Tuesday,Clement Adjei Nyanku,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 9,Tuesday,Bakah Samuel Bright,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 10,Tuesday,Etornam Koko,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 11,Tuesday,Henry Nana Antwi,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 12,Tuesday,Fiifi Akyer Yawson,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 13,Tuesday,Moses Gaveh,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 14,Tuesday,Fuad Muhammed,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 15,Tuesday,Swithin Annor Okyere,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 1,Wednesday,Maxwell Odoom,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 2,Wednesday,Gameli Jireh Anyam,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 3,Wednesday,Winfred Mawuli Agbotey,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 4,Wednesday,Robert Hlover,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 5,Wednesday,Mildred Nwinkom Naab,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 6,Wednesday,Elvis Edzordzinam Dagadu,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 7,Wednesday,Kingsley Acquah,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 8,Wednesday,Clement Adjei Nyanku,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 9,Wednesday,Bakah Samuel Bright,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 10,Wednesday,,False,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 11,Wednesday,Henry Nana Antwi,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 12,Wednesday,Fiifi Akyer Yawson,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 13,Wednesday,Moses Gaveh,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 14,Wednesday,Fuad Muhammed,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 15,Wednesday,Swithin Annor Okyere,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 1,Thursday,,False,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 2,Thursday,Gameli Jireh Anyam,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 3,Thursday,,False,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 4,Thursday,Emily Quarshie,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 5,Thursday,Mildred Nwinkom Naab,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 6,Thursday,Elvis Edzordzinam Dagadu,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 7,Thursday,Kingsley Acquah,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 8,Thursday,Clement Adjei Nyanku,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 9,Thursday,Bakah Samuel Bright,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 10,Thursday,Ishaque Appiah,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 11,Thursday,Henry Nana Antwi,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 12,Thursday,Fiifi Akyer Yawson,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 13,Thursday,Rafiatu Ibrahim,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 14,Thursday,,False,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 15,Thursday,Etornam Koko,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 1,Friday,Maxwell Odoom,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 2,Friday,Gameli Jireh Anyam,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 3,Friday,Abdul Rauf Mustapha,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 4,Friday,Emily Quarshie,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 5,Friday,Mildred Nwinkom Naab,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 6,Friday,Elvis Edzordzinam Dagadu,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 7,Friday,Kingsley Acquah,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 8,Friday,Clement Adjei Nyanku,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 9,Friday,Bakah Samuel Bright,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 10,Friday,Ishaque Appiah,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 11,Friday,Henry Nana Antwi,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 12,Friday,Fiifi Akyer Yawson,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 13,Friday,Rafiatu Ibrahim,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 14,Friday,Fuad Muhammed,True,False
+Accra Office,Floor 0,BLOCK B FLOOR 0,Seat 15,Friday,Etornam Koko,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 1,Monday,Gabriel Rockson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 2,Monday,Kwabena Owusu Achiaw,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 3,Monday,Reujoy Amissah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 4,Monday,Gideon Agbosu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 5,Monday,Lois Mills,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 6,Monday,Isaac Martey,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 7,Monday,Hillary Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 8,Monday,Catherine Atswei Gyamfi,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 9,Monday,Spencer Edinam Williams,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 10,Monday,John Kponyo,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 11,Monday,Huda Yahaya,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 12,Monday,Felix Oppong,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 13,Monday,Stephen Diaba,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 14,Monday,Francis Koomson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 15,Monday,Ivy Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 16,Monday,Innocent Kuwornu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 17,Monday,Nunya Klah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 18,Monday,Yaw Imbeah Mintah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 19,Monday,Tracy Sarah Afram-Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 20,Monday,Ann-Vanessa Lartey,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 21,Monday,Daniel Abakah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 1,Tuesday,Reujoy Amissah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 2,Tuesday,Kwabena Owusu Achiaw,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 3,Tuesday,Charles Biney,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 4,Tuesday,Gideon Agbosu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 5,Tuesday,Lois Mills,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 6,Tuesday,Isaac Martey,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 7,Tuesday,Hillary Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 8,Tuesday,Catherine Atswei Gyamfi,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 9,Tuesday,Spencer Edinam Williams,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 10,Tuesday,John Kponyo,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 11,Tuesday,Huda Yahaya,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 12,Tuesday,Felix Oppong,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 13,Tuesday,Stephen Diaba,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 14,Tuesday,Francis Koomson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 15,Tuesday,Ivy Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 16,Tuesday,Innocent Kuwornu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 17,Tuesday,Nunya Klah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 18,Tuesday,Yaw Imbeah Mintah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 19,Tuesday,Tracy Sarah Afram-Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 20,Tuesday,Ann-Vanessa Lartey,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 21,Tuesday,Eric Hackman,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 1,Wednesday,Reujoy Amissah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 2,Wednesday,Kwabena Owusu Achiaw,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 3,Wednesday,Charles Biney,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 4,Wednesday,Dickson Anyaele,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 5,Wednesday,Lois Mills,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 6,Wednesday,Isaac Martey,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 7,Wednesday,Hillary Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 8,Wednesday,Catherine Atswei Gyamfi,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 9,Wednesday,Spencer Edinam Williams,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 10,Wednesday,Michael Kwame Appiah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 11,Wednesday,Huda Yahaya,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 12,Wednesday,Felix Oppong,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 13,Wednesday,Stephen Diaba,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 14,Wednesday,Francis Koomson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 15,Wednesday,Ivy Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 16,Wednesday,Innocent Kuwornu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 17,Wednesday,Nunya Klah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 18,Wednesday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 19,Wednesday,Tracy Sarah Afram-Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 20,Wednesday,Judah Makinin,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 21,Wednesday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 1,Thursday,Gabriel Rockson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 2,Thursday,Dickson Anyaele,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 3,Thursday,Charles Biney,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 4,Thursday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 5,Thursday,Lois Mills,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 6,Thursday,Isaac Martey,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 7,Thursday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 8,Thursday,Catherine Atswei Gyamfi,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 9,Thursday,Spencer Edinam Williams,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 10,Thursday,Michael Kwame Appiah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 11,Thursday,Huda Yahaya,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 12,Thursday,Felix Oppong,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 13,Thursday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 14,Thursday,Francis Koomson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 15,Thursday,Ivy Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 16,Thursday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 17,Thursday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 18,Thursday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 19,Thursday,Judah Makinin,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 20,Thursday,Eric Hackman,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 21,Thursday,Daniel Abakah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 1,Friday,Gabriel Rockson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 2,Friday,Dickson Anyaele,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 3,Friday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 4,Friday,Gideon Agbosu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 5,Friday,Lois Mills,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 6,Friday,Isaac Martey,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 7,Friday,John Kponyo,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 8,Friday,Catherine Atswei Gyamfi,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 9,Friday,Spencer Edinam Williams,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 10,Friday,Michael Kwame Appiah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 11,Friday,Huda Yahaya,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 12,Friday,Felix Oppong,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 13,Friday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 14,Friday,Francis Koomson,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 15,Friday,Ivy Owusu,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 16,Friday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 17,Friday,,False,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 18,Friday,Yaw Imbeah Mintah,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 19,Friday,Judah Makinin,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 20,Friday,Eric Hackman,True,False
+Accra Office,Floor 1,BLOCK B FLOOR 1,Seat 21,Friday,Daniel Abakah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 1,Monday,Caleb Osam,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 2,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 3,Monday,Marzuk Sanni Entsie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 4,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 5,Monday,Cristian Nii Solomon,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 6,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 7,Monday,Babita Sagoe,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 8,Monday,Joshua Tetteh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 9,Monday,Illona Addae,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 10,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 11,Monday,Ernest Kojo Owusu Essien,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 12,Monday,Kwame Gyimah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 13,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 14,Monday,Isaac Tandoh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 15,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 16,Monday,Delali Kanda,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 17,Monday,Ekow Nii Saki Sackey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 18,Monday,Georgina Badu Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 19,Monday,Nathan Kulewoshie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 20,Monday,Robert Amoah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 21,Monday,Michael Odartei Lamptey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 22,Monday,Fafa Aboagye,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 23,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 24,Monday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 25,Monday,Emmanuel Kwabena Edusei,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 26,Monday,Bright Kofi Dompeh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 27,Monday,Palal Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 28,Monday,Grace Nalon,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 29,Monday,Geoffrey Dadzie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 30,Monday,Bless Ahadjie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 1,Tuesday,Caleb Osam,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 2,Tuesday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 3,Tuesday,Marzuk Sanni Entsie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 4,Tuesday,Wonderful Joel Owusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 5,Tuesday,Jessica Lartey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 6,Tuesday,Kwabena Ababio,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 7,Tuesday,Babita Sagoe,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 8,Tuesday,Joshua Tetteh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 9,Tuesday,Illona Addae,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 10,Tuesday,Gilbert Twum,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 11,Tuesday,Ernest Kojo Owusu Essien,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 12,Tuesday,Kwame Gyimah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 13,Tuesday,Richard  Korankye,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 14,Tuesday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 15,Tuesday,Alexander Agyeman,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 16,Tuesday,Delali Kanda,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 17,Tuesday,Ekow Nii Saki Sackey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 18,Tuesday,Georgina Badu Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 19,Tuesday,Nathan Kulewoshie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 20,Tuesday,Robert Amoah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 21,Tuesday,Michael Odartei Lamptey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 22,Tuesday,Elliott Awayiga,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 23,Tuesday,Jerry Agbesi,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 24,Tuesday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 25,Tuesday,Emmanuel Kwabena Edusei,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 26,Tuesday,Bright Kofi Dompeh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 27,Tuesday,Palal Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 28,Tuesday,Grace Nalon,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 29,Tuesday,Geoffrey Dadzie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 30,Tuesday,Bless Ahadjie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 1,Wednesday,Michael Tenu,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 2,Wednesday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 3,Wednesday,Emmanuel Kwabena Edusei,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 4,Wednesday,Wonderful Joel Owusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 5,Wednesday,Jessica Lartey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 6,Wednesday,Kwabena Ababio,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 7,Wednesday,Babita Sagoe,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 8,Wednesday,Georgina Badu Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 9,Wednesday,Illona Addae,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 10,Wednesday,Gilbert Twum,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 11,Wednesday,Ernest Kojo Owusu Essien,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 12,Wednesday,Kwame Gyimah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 13,Wednesday,Richard  Korankye,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 14,Wednesday,Isaac Tandoh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 15,Wednesday,Alexander Agyeman,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 16,Wednesday,Prince Ankamah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 17,Wednesday,Ekow Nii Saki Sackey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 18,Wednesday,Rachael Popoola,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 19,Wednesday,Nathan Kulewoshie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 20,Wednesday,Robert Amoah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 21,Wednesday,Michael Odartei Lamptey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 22,Wednesday,Elliott Awayiga,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 23,Wednesday,Jerry Agbesi,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 24,Wednesday,Ebenezer Butias,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 25,Wednesday,Frederick Frimpong Arthur,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 26,Wednesday,Bright Kofi Dompeh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 27,Wednesday,Palal Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 28,Wednesday,Grace Nalon,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 29,Wednesday,Geoffrey Dadzie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 30,Wednesday,Bless Ahadjie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 1,Thursday,Michael Tenu,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 2,Thursday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 3,Thursday,Emmanuel Kwabena Edusei,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 4,Thursday,Wonderful Joel Owusu-Ansah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 5,Thursday,Jessica Lartey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 6,Thursday,Kwabena Ababio,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 7,Thursday,Cristian Nii Solomon,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 8,Thursday,Joshua Tetteh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 9,Thursday,Illona Addae,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 10,Thursday,Gilbert Twum,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 11,Thursday,Ernest Kojo Owusu Essien,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 12,Thursday,Kwame Gyimah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 13,Thursday,Richard  Korankye,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 14,Thursday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 15,Thursday,Alexander Agyeman,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 16,Thursday,Prince Ankamah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 17,Thursday,Ekow Nii Saki Sackey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 18,Thursday,Rachael Popoola,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 19,Thursday,Fafa Aboagye,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 20,Thursday,Robert Amoah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 21,Thursday,Michael Odartei Lamptey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 22,Thursday,Elliott Awayiga,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 23,Thursday,Jerry Agbesi,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 24,Thursday,Ebenezer Butias,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 25,Thursday,Frederick Frimpong Arthur,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 26,Thursday,Bright Kofi Dompeh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 27,Thursday,Palal Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 28,Thursday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 29,Thursday,Geoffrey Dadzie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 30,Thursday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 1,Friday,Michael Tenu,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 2,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 3,Friday,Emmanuel Kwabena Edusei,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 4,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 5,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 6,Friday,Caleb Osam,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 7,Friday,Cristian Nii Solomon,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 8,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 9,Friday,Illona Addae,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 10,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 11,Friday,Ernest Kojo Owusu Essien,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 12,Friday,Kwame Gyimah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 13,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 14,Friday,Isaac Tandoh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 15,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 16,Friday,Prince Ankamah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 17,Friday,Ekow Nii Saki Sackey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 18,Friday,Rachael Popoola,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 19,Friday,Fafa Aboagye,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 20,Friday,Robert Amoah,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 21,Friday,Michael Odartei Lamptey,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 22,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 23,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 24,Friday,Ebenezer Butias,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 25,Friday,Frederick Frimpong Arthur,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 26,Friday,Bright Kofi Dompeh,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 27,Friday,Palal Asare,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 28,Friday,,False,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 29,Friday,Geoffrey Dadzie,True,False
+Accra Office,Floor 2,BLOCK B FLOOR 2,Seat 30,Friday,,False,False
